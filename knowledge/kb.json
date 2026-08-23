@@ -979,6 +979,18 @@
         }
       ]
     },
+    "Froging AI": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "rounds": [
+        {
+          "date": "2026-08-23",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
     "Funding Societies": {
       "count": 2,
       "first_seen": "2026-06-19",
@@ -1889,9 +1901,9 @@
       ]
     },
     "OpenAI": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-23",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -1994,6 +2006,11 @@
           "date": "2026-08-18",
           "investors": "not applicable",
           "round": "not applicable"
+        },
+        {
+          "date": "2026-08-23",
+          "investors": [],
+          "round": "N/A"
         }
       ]
     },
@@ -4253,9 +4270,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "AI Cost Management": {
@@ -4349,9 +4366,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 34,
+      "count": 35,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "AI agent internet access": {
@@ -4727,9 +4744,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Generative Models": {
@@ -4805,9 +4822,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5551,9 +5568,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5581,9 +5598,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-22",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "AI Governance": {
@@ -5653,9 +5670,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "AI for Scientific Discovery": {
@@ -5683,9 +5700,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 57,
+      "count": 58,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Agritech": {
@@ -5760,10 +5777,16 @@
       "last_seen": "2026-08-20",
       "notes": []
     },
-    "Cybersecurity": {
+    "Critical Infrastructure Security": {
       "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
+      "notes": []
+    },
+    "Cybersecurity": {
+      "count": 2,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Cybersecurity for SMEs": {
@@ -5977,9 +6000,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 18,
+      "count": 19,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Geopolitical/Sovereignty": {
@@ -6142,6 +6165,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Open-source LLMs capabilities": {
+      "count": 1,
+      "first_seen": "2026-08-23",
+      "last_seen": "2026-08-23",
       "notes": []
     },
     "Optimal Transport": {

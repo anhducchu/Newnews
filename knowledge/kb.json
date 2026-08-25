@@ -351,14 +351,19 @@
       ]
     },
     "Apple": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-08-25",
       "rounds": [
         {
           "date": "2026-07-10",
           "investors": [],
           "round": "N/A"
+        },
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -677,6 +682,18 @@
           "date": "2026-07-11",
           "investors": "Nvidia",
           "round": "financing"
+        }
+      ]
+    },
+    "Csiro": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1135,6 +1152,20 @@
         }
       ]
     },
+    "Granite Asia": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": [
+            "DBS Private Bank"
+          ],
+          "round": "Libra Hybrid"
+        }
+      ]
+    },
     "GrapheneOS": {
       "count": 1,
       "first_seen": "2026-07-28",
@@ -1207,6 +1238,18 @@
           "date": "2026-08-20",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "IBM": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1736,6 +1779,18 @@
         }
       ]
     },
+    "Multica-AI": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "NIST": {
       "count": 1,
       "first_seen": "2026-07-28",
@@ -1890,6 +1945,18 @@
           "date": "2026-07-26",
           "investors": [],
           "round": "N/A"
+        }
+      ]
+    },
+    "Ollobot": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -2773,6 +2840,18 @@
         }
       ]
     },
+    "VoltAgent": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "rounds": [
+        {
+          "date": "2026-08-25",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "WhiskeySockets": {
       "count": 1,
       "first_seen": "2026-07-31",
@@ -3064,10 +3143,10 @@
       "last_seen": "2026-07-31"
     },
     "AI Model Optimization": {
-      "count": 10,
+      "count": 11,
       "domain": "AI",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-08-20"
+      "last_seen": "2026-08-25"
     },
     "AI digital inequality": {
       "count": 1,
@@ -3112,10 +3191,10 @@
       "last_seen": "2026-06-19"
     },
     "Advanced Materials": {
-      "count": 3,
-      "domain": "Materials",
+      "count": 4,
+      "domain": "Materials Science",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-08-25"
     },
     "Agentic AI for Root Cause Analysis": {
       "count": 1,
@@ -3219,6 +3298,12 @@
       "first_seen": "2026-06-23",
       "last_seen": "2026-06-23"
     },
+    "Cryptography": {
+      "count": 1,
+      "domain": "Computer Science",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
     "DSpark": {
       "count": 1,
       "domain": "AI / LLM Optimization",
@@ -3310,10 +3395,10 @@
       "last_seen": "2026-06-30"
     },
     "Energy Storage": {
-      "count": 3,
-      "domain": "energy & pin",
+      "count": 4,
+      "domain": "Energy",
       "first_seen": "2026-06-26",
-      "last_seen": "2026-07-08"
+      "last_seen": "2026-08-25"
     },
     "FIBSEM": {
       "count": 1,
@@ -3537,6 +3622,12 @@
       "first_seen": "2026-08-13",
       "last_seen": "2026-08-13"
     },
+    "Quantum Tech": {
+      "count": 1,
+      "domain": "Physics",
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25"
+    },
     "RFIC design": {
       "count": 1,
       "domain": "AI-driven chip design",
@@ -3580,10 +3671,10 @@
       "last_seen": "2026-06-29"
     },
     "Robotics": {
-      "count": 8,
+      "count": 9,
       "domain": "Hardware",
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-17"
+      "last_seen": "2026-08-25"
     },
     "Robotics Assembly Skills": {
       "count": 1,
@@ -3855,6 +3946,12 @@
       "count": 1,
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-12",
+      "pattern_notes": []
+    },
+    "DBS Private Bank": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
       "pattern_notes": []
     },
     "EDBI": {
@@ -4304,9 +4401,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -4316,9 +4413,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 53,
+      "count": 54,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "AI Cost Management": {
@@ -4412,9 +4509,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "AI agent internet access": {
@@ -4535,6 +4632,12 @@
       "count": 1,
       "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Battery Tech": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "BigQuery ML": {
@@ -4687,6 +4790,12 @@
       "last_seen": "2026-08-20",
       "notes": []
     },
+    "Digital Health": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
     "Distributed Systems": {
       "count": 1,
       "first_seen": "2026-08-08",
@@ -4790,9 +4899,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Generative Models": {
@@ -4868,9 +4977,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 49,
+      "count": 50,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5258,9 +5367,9 @@
       "notes": []
     },
     "Robotics": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Robotics Control": {
@@ -5330,9 +5439,9 @@
       "notes": []
     },
     "Semiconductor": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Sensor stack": {
@@ -5539,6 +5648,12 @@
       "last_seen": "2026-07-21",
       "notes": []
     },
+    "Wearable Devices": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
     "WhatsApp Web API": {
       "count": 1,
       "first_seen": "2026-07-31",
@@ -5632,9 +5747,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5662,9 +5777,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "AI Governance": {
@@ -5751,6 +5866,12 @@
       "last_seen": "2026-07-31",
       "notes": []
     },
+    "Advanced Computing / Semiconductors": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
     "Advanced Materials": {
       "count": 1,
       "first_seen": "2026-07-05",
@@ -5764,9 +5885,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 59,
+      "count": 60,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Agritech": {
@@ -5806,9 +5927,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Capital allocation": {
@@ -5907,6 +6028,12 @@
       "last_seen": "2026-06-20",
       "notes": []
     },
+    "Deep Tech Investment": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "notes": []
+    },
     "Deeptech Playbook SEA": {
       "count": 1,
       "first_seen": "2026-07-23",
@@ -5953,6 +6080,12 @@
       "count": 1,
       "first_seen": "2026-07-08",
       "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "EV Ecosystem SEA": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "EV Infrastructure": {
@@ -6007,6 +6140,12 @@
       "count": 1,
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Energy Storage / Quantum Tech": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Enterprise AI Adoption Challenges": {
@@ -6328,9 +6467,9 @@
       "notes": []
     },
     "Robotics": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Robotics in Logistics": {
@@ -6475,6 +6614,12 @@
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Wearable Tech / Digital Health": {
+      "count": 1,
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
       "notes": []
     },
     "Workflow Orchestration": {

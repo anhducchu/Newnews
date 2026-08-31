@@ -4443,9 +4443,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "AI Cost Management": {
@@ -4539,9 +4539,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "AI agent internet access": {
@@ -4680,6 +4680,12 @@
       "count": 1,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Blockchain Timestamping": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Bluetooth mesh": {
@@ -5007,9 +5013,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5208,6 +5214,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Open Source Driver": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Open-source Customer Support": {
@@ -5777,9 +5789,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 67,
+      "count": 68,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5789,9 +5801,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 49,
+      "count": 50,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -5915,9 +5927,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Agritech": {
@@ -5966,6 +5978,12 @@
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Climate Change": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Community-driven Development": {
@@ -6394,6 +6412,12 @@
       "last_seen": "2026-07-13",
       "notes": []
     },
+    "Open Source": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "notes": []
+    },
     "Open Source Tools": {
       "count": 1,
       "first_seen": "2026-07-04",
@@ -6461,9 +6485,9 @@
       "notes": []
     },
     "Quant Trading": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Quantum Computing": {
@@ -6560,6 +6584,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Startup Anti-patterns": {
+      "count": 1,
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
       "notes": []
     },
     "Sustainability": {

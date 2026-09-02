@@ -230,9 +230,9 @@
       ]
     },
     "Anthropic": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-02",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -335,6 +335,11 @@
           "date": "2026-08-24",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -1985,9 +1990,9 @@
       ]
     },
     "OpenAI": {
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-02",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2095,6 +2100,11 @@
           "date": "2026-08-23",
           "investors": [],
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -2126,6 +2136,18 @@
           "date": "2026-08-07",
           "investors": [],
           "round": "N/A"
+        }
+      ]
+    },
+    "Osmantic": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -2224,6 +2246,18 @@
             "BlueOrchard"
           ],
           "round": "Series C"
+        }
+      ]
+    },
+    "Pollen Robotics": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -2770,6 +2804,18 @@
         }
       ]
     },
+    "Thunes": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "rounds": [
+        {
+          "date": "2026-09-02",
+          "investors": "not specified",
+          "round": "late-stage"
+        }
+      ]
+    },
     "TokenLab": {
       "count": 1,
       "first_seen": "2026-08-15",
@@ -3256,6 +3302,12 @@
       "first_seen": "2026-06-29",
       "last_seen": "2026-06-29"
     },
+    "Astra": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
+    },
     "Autonomous Agent Training": {
       "count": 1,
       "domain": "AI Engineering",
@@ -3303,6 +3355,12 @@
       "domain": "semiconductor",
       "first_seen": "2026-08-09",
       "last_seen": "2026-08-09"
+    },
+    "Claude Fable/Mythos": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
     },
     "Colossus": {
       "count": 1,
@@ -3549,6 +3607,12 @@
       "domain": "Healthcare IT",
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03"
+    },
+    "Microduck RL": {
+      "count": 1,
+      "domain": "Robotics",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02"
     },
     "MinSurf": {
       "count": 1,
@@ -4297,27 +4361,27 @@
       "pattern_notes": []
     },
     "c": {
-      "count": 39,
+      "count": 40,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "d": {
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "e": {
-      "count": 74,
+      "count": 76,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "f": {
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "g": {
@@ -4333,9 +4397,9 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 70,
+      "count": 72,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "k": {
@@ -4357,21 +4421,21 @@
       "pattern_notes": []
     },
     "n": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "o": {
-      "count": 57,
+      "count": 58,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "p": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "r": {
@@ -4381,15 +4445,15 @@
       "pattern_notes": []
     },
     "s": {
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "t": {
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-02",
       "pattern_notes": []
     },
     "u": {
@@ -4437,9 +4501,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -4449,9 +4513,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 57,
+      "count": 58,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI Cost Management": {
@@ -4545,9 +4609,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 39,
+      "count": 40,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI agent internet access": {
@@ -4784,6 +4848,12 @@
       "last_seen": "2026-07-02",
       "notes": []
     },
+    "Cybersecurity AI": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
     "DMCA law": {
       "count": 1,
       "first_seen": "2026-07-27",
@@ -4910,6 +4980,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Frontier Safeguards": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "notes": []
+    },
     "GGUFs": {
       "count": 1,
       "first_seen": "2026-06-22",
@@ -4941,9 +5017,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Generative Models": {
@@ -5019,9 +5095,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 53,
+      "count": 54,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5397,9 +5473,9 @@
       "notes": []
     },
     "Reinforcement Learning": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Retrieval Augmented Generation (RAG)": {
@@ -5520,6 +5596,12 @@
       "count": 1,
       "first_seen": "2026-06-29",
       "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Sim2real": {
+      "count": 1,
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Smart Contracts": {
@@ -5807,9 +5889,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5819,9 +5901,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 50,
+      "count": 51,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -5837,9 +5919,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 57,
+      "count": 58,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "AI Governance": {
@@ -5945,9 +6027,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Agritech": {
@@ -5957,9 +6039,9 @@
       "notes": []
     },
     "Autonomy Stack": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Biotech": {
@@ -5987,9 +6069,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Capital allocation": {
@@ -6275,9 +6357,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Geopolitical/Sovereignty": {
@@ -6551,9 +6633,9 @@
       "notes": []
     },
     "Robotics": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-02",
       "notes": []
     },
     "Robotics in Logistics": {

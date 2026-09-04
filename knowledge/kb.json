@@ -1990,9 +1990,9 @@
       ]
     },
     "OpenAI": {
-      "count": 22,
+      "count": 23,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2104,6 +2104,11 @@
         {
           "date": "2026-09-02",
           "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-04",
+          "investors": null,
           "round": null
         }
       ]
@@ -2840,6 +2845,18 @@
         }
       ]
     },
+    "Tsubaki KabelSchlepp": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "rounds": [
+        {
+          "date": "2026-09-04",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Ubicloud": {
       "count": 1,
       "first_seen": "2026-07-03",
@@ -3321,10 +3338,10 @@
       "last_seen": "2026-06-22"
     },
     "Autonomy Stack": {
-      "count": 7,
-      "domain": "AI/Software",
+      "count": 8,
+      "domain": "robotics",
       "first_seen": "2026-06-20",
-      "last_seen": "2026-08-07"
+      "last_seen": "2026-09-04"
     },
     "Battery Chemistry": {
       "count": 1,
@@ -3771,10 +3788,10 @@
       "last_seen": "2026-06-29"
     },
     "Robotics": {
-      "count": 9,
-      "domain": "Hardware",
+      "count": 10,
+      "domain": "control",
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-25"
+      "last_seen": "2026-09-04"
     },
     "Robotics Assembly Skills": {
       "count": 1,
@@ -4513,9 +4530,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "AI Cost Management": {
@@ -4609,9 +4626,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 40,
+      "count": 41,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "AI agent internet access": {
@@ -5017,9 +5034,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Generative Models": {
@@ -5095,9 +5112,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5622,6 +5639,12 @@
       "last_seen": "2026-06-27",
       "notes": []
     },
+    "Speech-to-Text": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
     "Startup Ranking": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -5668,6 +5691,12 @@
       "count": 1,
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Text-to-Speech": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Text-to-Speech (TTS)": {
@@ -5784,6 +5813,12 @@
       "last_seen": "2026-07-21",
       "notes": []
     },
+    "Voice Cloning": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
     "Wearable Devices": {
       "count": 1,
       "first_seen": "2026-08-25",
@@ -5889,9 +5924,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5901,9 +5936,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -5919,9 +5954,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "AI Governance": {
@@ -6027,9 +6062,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 64,
+      "count": 65,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Agritech": {
@@ -6069,15 +6104,21 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Capital allocation": {
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Capital allocation / VC thesis": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Climate Change": {
@@ -6362,6 +6403,12 @@
       "last_seen": "2026-09-02",
       "notes": []
     },
+    "Generative modeling": {
+      "count": 1,
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "notes": []
+    },
     "Geopolitical/Sovereignty": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -6483,9 +6530,9 @@
       "notes": []
     },
     "Moats": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Network Infrastructure": {
@@ -6675,9 +6722,9 @@
       "notes": []
     },
     "SEA startup ecosystem": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-04",
       "notes": []
     },
     "Semiconductor Failure Analysis": {

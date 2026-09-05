@@ -230,9 +230,9 @@
       ]
     },
     "Anthropic": {
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -339,6 +339,11 @@
         {
           "date": "2026-09-02",
           "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
           "round": null
         }
       ]
@@ -1084,9 +1089,9 @@
       ]
     },
     "Google": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -1137,6 +1142,11 @@
           "date": "2026-08-18",
           "investors": "not applicable",
           "round": "not applicable"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1990,9 +2000,9 @@
       ]
     },
     "OpenAI": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2110,13 +2120,18 @@
           "date": "2026-09-04",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
         }
       ]
     },
     "OpenRouter": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-08-16",
@@ -2129,6 +2144,11 @@
             "Stripe"
           ],
           "round": "acquisition"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -2577,14 +2597,19 @@
       ]
     },
     "SpaceX": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-08-14",
           "investors": null,
           "round": "Acquisition"
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -2887,6 +2912,18 @@
         {
           "date": "2026-08-19",
           "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "VLM Run": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "rounds": [
+        {
+          "date": "2026-09-05",
+          "investors": null,
           "round": null
         }
       ]
@@ -3199,9 +3236,9 @@
       ]
     },
     "xAI": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-05",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -3211,6 +3248,11 @@
         {
           "date": "2026-07-15",
           "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-05",
+          "investors": null,
           "round": null
         }
       ]
@@ -4530,9 +4572,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 59,
+      "count": 60,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "AI Cost Management": {
@@ -4626,9 +4668,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "AI agent internet access": {
@@ -5034,9 +5076,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Generative Models": {
@@ -5112,9 +5154,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5286,9 +5328,9 @@
       "notes": []
     },
     "OCR": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-02",
-      "last_seen": "2026-07-02",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "OS Security": {
@@ -5430,9 +5472,9 @@
       "notes": []
     },
     "Prompt Engineering": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Prompt Injection Defense": {
@@ -5777,6 +5819,12 @@
       "last_seen": "2026-07-31",
       "notes": []
     },
+    "VLM": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "notes": []
+    },
     "VPN": {
       "count": 1,
       "first_seen": "2026-07-28",
@@ -5793,6 +5841,12 @@
       "count": 1,
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18",
+      "notes": []
+    },
+    "Vision Models": {
+      "count": 1,
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Vision-Language Models (VLMs)": {
@@ -5924,9 +5978,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 71,
+      "count": 72,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "AI Benchmarking": {
@@ -5936,9 +5990,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -5954,9 +6008,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 59,
+      "count": 60,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "AI Governance": {
@@ -6062,9 +6116,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Agritech": {
@@ -6104,9 +6158,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 56,
+      "count": 57,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Capital allocation": {
@@ -6398,9 +6452,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-02",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Generative modeling": {
@@ -6530,9 +6584,9 @@
       "notes": []
     },
     "Moats": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Network Infrastructure": {
@@ -6722,9 +6776,9 @@
       "notes": []
     },
     "SEA startup ecosystem": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "notes": []
     },
     "Semiconductor Failure Analysis": {

@@ -1836,13 +1836,18 @@
       ]
     },
     "Mynt": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "rounds": [
         {
           "date": "2026-09-08",
           "investors": "not clear from source, but operator of GCash",
+          "round": "IPO"
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
           "round": "IPO"
         }
       ]
@@ -2029,9 +2034,9 @@
       ]
     },
     "OpenAI": {
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-09",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2159,6 +2164,11 @@
           "date": "2026-09-07",
           "investors": [],
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2183,6 +2193,18 @@
           "date": "2026-09-05",
           "investors": null,
           "round": null
+        }
+      ]
+    },
+    "OpenUI": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2445,14 +2467,19 @@
       ]
     },
     "Quesma": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-06-29",
+      "last_seen": "2026-09-09",
       "rounds": [
         {
           "date": "2026-06-29",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2507,6 +2534,18 @@
             "Andreessen Horowitz"
           ],
           "round": "$100M at $1B valuation"
+        }
+      ]
+    },
+    "Rivian": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2654,6 +2693,18 @@
       "rounds": [
         {
           "date": "2026-08-03",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Spinifex": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "rounds": [
+        {
+          "date": "2026-09-09",
           "investors": "N/A",
           "round": "N/A"
         }
@@ -3437,10 +3488,10 @@
       "last_seen": "2026-06-22"
     },
     "Autonomy Stack": {
-      "count": 8,
-      "domain": "robotics",
+      "count": 9,
+      "domain": "Self-driving cars",
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-04"
+      "last_seen": "2026-09-09"
     },
     "Battery Chemistry": {
       "count": 1,
@@ -4075,15 +4126,15 @@
       "pattern_notes": []
     },
     "/": {
-      "count": 44,
+      "count": 50,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "pattern_notes": []
     },
     "A": {
-      "count": 47,
+      "count": 53,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "pattern_notes": []
     },
     "AVP": {
@@ -4333,9 +4384,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 49,
+      "count": 55,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "pattern_notes": []
     },
     "O": {
@@ -4634,6 +4685,12 @@
     }
   },
   "tech": {
+    "ADAS": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
     "AI": {
       "count": 1,
       "first_seen": "2026-08-16",
@@ -4653,9 +4710,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 62,
+      "count": 63,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "AI Cost Management": {
@@ -4868,6 +4925,12 @@
       "last_seen": "2026-06-20",
       "notes": []
     },
+    "Autonomous Driving Systems": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
     "BPE tokenizer": {
       "count": 1,
       "first_seen": "2026-06-28",
@@ -4976,6 +5039,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Content Commerce": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
     "Context Engineering": {
       "count": 1,
       "first_seen": "2026-07-25",
@@ -5043,9 +5112,9 @@
       "notes": []
     },
     "Diffusion Models": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Digital Health": {
@@ -5100,6 +5169,12 @@
       "count": 1,
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Fintech IPO": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Fintech applications": {
@@ -5180,6 +5255,12 @@
       "last_seen": "2026-07-02",
       "notes": []
     },
+    "Generative UI": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
     "GitHub Security": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -5250,6 +5331,12 @@
       "count": 1,
       "first_seen": "2026-07-04",
       "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "LLM Biases": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "LLM Fine-tuning": {
@@ -5376,6 +5463,12 @@
       "count": 1,
       "first_seen": "2026-07-14",
       "last_seen": "2026-07-14",
+      "notes": []
+    },
+    "Model Quantization": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Multi-Agent Systems": {
@@ -5712,6 +5805,12 @@
       "count": 1,
       "first_seen": "2026-07-27",
       "last_seen": "2026-07-27",
+      "notes": []
+    },
+    "Self-hosted Cloud Infrastructure": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Self-improving models": {
@@ -6071,9 +6170,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 74,
+      "count": 75,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6083,9 +6182,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -6101,9 +6200,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 62,
+      "count": 63,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "AI Governance": {
@@ -6215,9 +6314,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Agritech": {
@@ -6227,9 +6326,9 @@
       "notes": []
     },
     "Autonomy Stack": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Biotech": {
@@ -6250,6 +6349,12 @@
       "last_seen": "2026-08-07",
       "notes": []
     },
+    "Capital Allocation / VC Thesis / Moats": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "notes": []
+    },
     "Capital Allocation in SEA": {
       "count": 1,
       "first_seen": "2026-07-08",
@@ -6257,9 +6362,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Capital allocation": {
@@ -6551,9 +6656,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 21,
+      "count": 22,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Generative modeling": {
@@ -6863,9 +6968,9 @@
       "notes": []
     },
     "SEA Fintech / Payments / Startup Ecosystem": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "SEA Startup Ecosystem": {
@@ -6962,6 +7067,12 @@
       "count": 1,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Uncertainty / OOD / Long-tailed learning": {
+      "count": 1,
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
       "notes": []
     },
     "Uncertainty / OOD Learning": {

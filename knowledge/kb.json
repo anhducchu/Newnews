@@ -242,9 +242,9 @@
       ]
     },
     "Anthropic": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-13",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -362,6 +362,11 @@
           "date": "2026-09-07",
           "investors": [],
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -865,6 +870,18 @@
           "date": "2026-09-10",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "DeskcommCRM": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1520,6 +1537,18 @@
         }
       ]
     },
+    "LLM Wiki": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Laboratoria": {
       "count": 1,
       "first_seen": "2026-07-28",
@@ -1671,6 +1700,18 @@
       "rounds": [
         {
           "date": "2026-08-14",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "MathModelAgent": {
+      "count": 1,
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "rounds": [
+        {
+          "date": "2026-09-13",
           "investors": null,
           "round": null
         }
@@ -2007,9 +2048,9 @@
       ]
     },
     "Nvidia": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-09-13",
       "rounds": [
         {
           "date": "2026-07-11",
@@ -2019,6 +2060,11 @@
         {
           "date": "2026-07-15",
           "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
           "round": null
         }
       ]
@@ -2075,9 +2121,9 @@
       ]
     },
     "OpenAI": {
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-13",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2210,6 +2256,11 @@
           "date": "2026-09-09",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-13",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -4775,9 +4826,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 28,
+      "count": 29,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -4787,9 +4838,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "AI Cost Management": {
@@ -4883,9 +4934,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 46,
+      "count": 47,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "AI agent internet access": {
@@ -5327,9 +5378,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 42,
+      "count": 43,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Generative Models": {
@@ -5411,9 +5462,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 60,
+      "count": 61,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "LLM (Codex)": {
@@ -6265,9 +6316,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 77,
+      "count": 78,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6409,9 +6460,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 71,
+      "count": 72,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Agritech": {
@@ -6457,9 +6508,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Capital allocation": {
@@ -6595,9 +6646,9 @@
       "notes": []
     },
     "Distribution": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-28",
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "ESG/Sustainability in Logistics": {
@@ -6871,9 +6922,9 @@
       "notes": []
     },
     "Moat": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Moat & Defensibility": {
@@ -7087,9 +7138,9 @@
       "notes": []
     },
     "SEA startup ecosystem": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-13",
       "notes": []
     },
     "Semiconductor Failure Analysis": {

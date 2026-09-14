@@ -242,9 +242,9 @@
       ]
     },
     "Anthropic": {
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -367,6 +367,13 @@
           "date": "2026-09-13",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-09-14",
+          "investors": [
+            "Insight Partners"
+          ],
+          "round": "not specified"
         }
       ]
     },
@@ -1393,6 +1400,18 @@
         }
       ]
     },
+    "Insight Partners": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "diversifying strategy"
+        }
+      ]
+    },
     "Instagram": {
       "count": 1,
       "first_seen": "2026-06-29",
@@ -1462,6 +1481,18 @@
           "date": "2026-08-10",
           "investors": "not specified",
           "round": "product launch"
+        }
+      ]
+    },
+    "Kibble": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "not specified"
         }
       ]
     },
@@ -2121,9 +2152,9 @@
       ]
     },
     "OpenAI": {
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2261,6 +2292,13 @@
           "date": "2026-09-13",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-09-14",
+          "investors": [
+            "Insight Partners"
+          ],
+          "round": "not specified"
         }
       ]
     },
@@ -3223,6 +3261,18 @@
         }
       ]
     },
+    "Y Combinator": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "Demo Day"
+        }
+      ]
+    },
     "Yosemite": {
       "count": 1,
       "first_seen": "2026-07-12",
@@ -3244,6 +3294,18 @@
           "date": "2026-08-20",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "YuE2": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "rounds": [
+        {
+          "date": "2026-09-14",
+          "investors": [],
+          "round": "not specified"
         }
       ]
     },
@@ -4451,6 +4513,12 @@
       "last_seen": "2026-08-21",
       "pattern_notes": []
     },
+    "Insight Partners": {
+      "count": 2,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "pattern_notes": []
+    },
     "Khosla": {
       "count": 1,
       "first_seen": "2026-07-05",
@@ -4826,9 +4894,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 29,
+      "count": 30,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -4838,9 +4906,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 66,
+      "count": 67,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "AI Cost Management": {
@@ -4934,9 +5002,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "AI agent internet access": {
@@ -5257,6 +5325,12 @@
       "last_seen": "2026-08-25",
       "notes": []
     },
+    "Distillation": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "notes": []
+    },
     "Distributed Systems": {
       "count": 1,
       "first_seen": "2026-08-08",
@@ -5378,9 +5452,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 43,
+      "count": 44,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Generative Models": {
@@ -5462,9 +5536,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5627,6 +5701,12 @@
       "count": 1,
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
+      "notes": []
+    },
+    "Network Effects": {
+      "count": 1,
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Networking Stack": {
@@ -6316,9 +6396,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 78,
+      "count": 79,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6346,9 +6426,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "AI Governance": {
@@ -6460,9 +6540,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 72,
+      "count": 73,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Agritech": {
@@ -6508,9 +6588,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 62,
+      "count": 63,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Capital allocation": {
@@ -6802,9 +6882,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Generative modeling": {
@@ -6922,9 +7002,9 @@
       "notes": []
     },
     "Moat": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-14",
       "notes": []
     },
     "Moat & Defensibility": {

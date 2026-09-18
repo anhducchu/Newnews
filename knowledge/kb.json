@@ -254,9 +254,9 @@
       ]
     },
     "Anthropic": {
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -391,6 +391,11 @@
           "date": "2026-09-17",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-09-18",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -609,6 +614,18 @@
         }
       ]
     },
+    "Cactus Needle": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "rounds": [
+        {
+          "date": "2026-09-18",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
     "Capital One": {
       "count": 1,
       "first_seen": "2026-07-17",
@@ -821,13 +838,18 @@
       ]
     },
     "Databricks": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-09-18",
       "rounds": [
         {
           "date": "2026-08-07",
           "investors": [],
+          "round": "N/A"
+        },
+        {
+          "date": "2026-09-18",
+          "investors": "Databricks (self-investment)",
           "round": "N/A"
         }
       ]
@@ -1330,6 +1352,21 @@
           "date": "2026-07-28",
           "investors": "",
           "round": ""
+        }
+      ]
+    },
+    "Hang Ten Systems": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "rounds": [
+        {
+          "date": "2026-09-18",
+          "investors": [
+            "Xora",
+            "Mayfield"
+          ],
+          "round": "seed"
         }
       ]
     },
@@ -4481,15 +4518,15 @@
   },
   "investors": {
     "(": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     ")": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     ",": {
@@ -4499,21 +4536,21 @@
       "pattern_notes": []
     },
     "-": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-06-19",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "/": {
-      "count": 59,
+      "count": 61,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "A": {
-      "count": 58,
+      "count": 60,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "AVP": {
@@ -4607,9 +4644,9 @@
       "pattern_notes": []
     },
     "D": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "D1 Capital Partners": {
@@ -4756,6 +4793,12 @@
       "last_seen": "2026-09-16",
       "pattern_notes": []
     },
+    "Mayfield": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
     "Menlo Ventures": {
       "count": 1,
       "first_seen": "2026-06-23",
@@ -4775,9 +4818,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 59,
+      "count": 61,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "O": {
@@ -4906,6 +4949,12 @@
       "last_seen": "2026-07-17",
       "pattern_notes": []
     },
+    "Xora": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "pattern_notes": []
+    },
     "Y": {
       "count": 1,
       "first_seen": "2026-08-10",
@@ -4931,9 +4980,9 @@
       "pattern_notes": []
     },
     "a": {
-      "count": 67,
+      "count": 69,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "a16z": {
@@ -4943,15 +4992,15 @@
       "pattern_notes": []
     },
     "b": {
-      "count": 19,
+      "count": 20,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "c": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "d": {
@@ -4961,15 +5010,15 @@
       "pattern_notes": []
     },
     "e": {
-      "count": 101,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "f": {
-      "count": 26,
+      "count": 27,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "g": {
@@ -4985,33 +5034,33 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 84,
+      "count": 86,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "k": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "l": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "m": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "n": {
-      "count": 84,
+      "count": 86,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "o": {
@@ -5033,21 +5082,21 @@
       "pattern_notes": []
     },
     "r": {
-      "count": 48,
+      "count": 49,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "s": {
-      "count": 39,
+      "count": 42,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "t": {
-      "count": 66,
+      "count": 69,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "u": {
@@ -5057,9 +5106,9 @@
       "pattern_notes": []
     },
     "v": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-09-18",
       "pattern_notes": []
     },
     "w": {
@@ -5101,9 +5150,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -5113,9 +5162,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI Cost Management": {
@@ -5209,9 +5258,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 51,
+      "count": 52,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI agent internet access": {
@@ -5671,9 +5720,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Generative Models": {
@@ -5755,9 +5804,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "LLM (Codex)": {
@@ -5965,9 +6014,9 @@
       "notes": []
     },
     "On-device AI": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "On-device STT": {
@@ -6106,6 +6155,12 @@
       "count": 1,
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-16",
+      "notes": []
+    },
+    "Proof Systems": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Proprietary AI": {
@@ -6615,9 +6670,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 81,
+      "count": 82,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6627,9 +6682,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -6651,9 +6706,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "AI Ethics": {
@@ -6777,9 +6832,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 75,
+      "count": 76,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Agritech": {
@@ -6831,9 +6886,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 64,
+      "count": 65,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Capital allocation": {
@@ -7131,9 +7186,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 25,
+      "count": 26,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Generative modeling": {
@@ -7383,9 +7438,9 @@
       "notes": []
     },
     "Quant Trading & Market Microstructure": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "Quantum Computing": {
@@ -7443,9 +7498,9 @@
       "notes": []
     },
     "SEA Fintech / Payments / Startup Ecosystem": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "SEA Fintech Dynamics": {
@@ -7590,6 +7645,12 @@
       "count": 1,
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05",
+      "notes": []
+    },
+    "VC Thesis / Moats": {
+      "count": 1,
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
       "notes": []
     },
     "VC thesis": {

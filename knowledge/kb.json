@@ -254,9 +254,9 @@
       ]
     },
     "Anthropic": {
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -396,6 +396,11 @@
           "date": "2026-09-18",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
         }
       ]
     },
@@ -1471,6 +1476,18 @@
         }
       ]
     },
+    "Inertia": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
     "Infineon": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -2246,6 +2263,18 @@
         }
       ]
     },
+    "Octop": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
+        }
+      ]
+    },
     "Ollama": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -2283,9 +2312,9 @@
       ]
     },
     "OpenAI": {
-      "count": 28,
+      "count": 29,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-09-19",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2429,6 +2458,11 @@
           "investors": [
             "Insight Partners"
           ],
+          "round": "not specified"
+        },
+        {
+          "date": "2026-09-19",
+          "investors": [],
           "round": "not specified"
         }
       ]
@@ -3589,6 +3623,20 @@
         }
       ]
     },
+    "dtcpay": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [
+            "SBI"
+          ],
+          "round": "US$25M"
+        }
+      ]
+    },
     "etaily": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -3660,6 +3708,18 @@
           "date": "2026-07-14",
           "investors": [],
           "round": "N/A"
+        }
+      ]
+    },
+    "n8n": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "rounds": [
+        {
+          "date": "2026-09-19",
+          "investors": [],
+          "round": "not specified"
         }
       ]
     },
@@ -4058,6 +4118,12 @@
       "domain": "Autonomy Stack",
       "first_seen": "2026-09-08",
       "last_seen": "2026-09-08"
+    },
+    "Fusion Power": {
+      "count": 1,
+      "domain": "Energy",
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19"
     },
     "GPU-Parallel Linearization Error Bounds": {
       "count": 1,
@@ -4865,6 +4931,12 @@
       "last_seen": "2026-07-17",
       "pattern_notes": []
     },
+    "SBI": {
+      "count": 1,
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "pattern_notes": []
+    },
     "SBI Investment": {
       "count": 1,
       "first_seen": "2026-07-05",
@@ -5150,9 +5222,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -5162,9 +5234,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 71,
+      "count": 72,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI Cost Management": {
@@ -5258,9 +5330,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 52,
+      "count": 53,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI agent internet access": {
@@ -5720,9 +5792,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 48,
+      "count": 49,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Generative Models": {
@@ -5804,9 +5876,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 66,
+      "count": 67,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "LLM (Codex)": {
@@ -6670,9 +6742,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 82,
+      "count": 83,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6682,9 +6754,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 59,
+      "count": 60,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -6706,9 +6778,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI Ethics": {
@@ -6796,9 +6868,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "AI for Scientific Discovery": {
@@ -6832,9 +6904,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 76,
+      "count": 77,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Agritech": {
@@ -6886,9 +6958,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Capital allocation": {
@@ -7114,9 +7186,9 @@
       "notes": []
     },
     "Energy Storage": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "Energy Storage / Quantum Tech": {
@@ -7522,9 +7594,9 @@
       "notes": []
     },
     "SEA fintech / payments / startup ecosystem": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-09-19",
       "notes": []
     },
     "SEA startup ecosystem": {

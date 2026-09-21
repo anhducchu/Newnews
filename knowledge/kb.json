@@ -4137,6 +4137,12 @@
       "first_seen": "2026-07-07",
       "last_seen": "2026-07-07"
     },
+    "Glass Carriers": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21"
+    },
     "Gravitational Constant Measurement": {
       "count": 1,
       "domain": "Physics",
@@ -4154,6 +4160,12 @@
       "domain": "AI Agents",
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15"
+    },
+    "HBM4/HBM4E DRAM": {
+      "count": 1,
+      "domain": "Semiconductor",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21"
     },
     "High Frequency Communication": {
       "count": 1,
@@ -5425,6 +5437,12 @@
       "last_seen": "2026-07-20",
       "notes": []
     },
+    "Agentic Orchestration": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
     "Agentic Systems": {
       "count": 1,
       "first_seen": "2026-09-15",
@@ -5773,6 +5791,12 @@
       "last_seen": "2026-06-29",
       "notes": []
     },
+    "GPU Orchestration": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "notes": []
+    },
     "GPU financing": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -5825,6 +5849,12 @@
       "count": 1,
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "High-Bandwidth Memory (HBM)": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "Humanoids": {
@@ -5939,6 +5969,12 @@
       "count": 1,
       "first_seen": "2026-07-31",
       "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Large Language Model (LLM) Training Framework": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "Linux Pressure Stall Information (PSI)": {
@@ -6742,9 +6778,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 83,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6778,9 +6814,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "AI Ethics": {
@@ -6904,9 +6940,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 77,
+      "count": 78,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "Agritech": {
@@ -7093,6 +7129,12 @@
       "count": 5,
       "first_seen": "2026-06-22",
       "last_seen": "2026-09-11",
+      "notes": []
+    },
+    "Democratization of Technology": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "Digital Sovereignty": {
@@ -7321,6 +7363,12 @@
       "count": 1,
       "first_seen": "2026-07-04",
       "last_seen": "2026-07-04",
+      "notes": []
+    },
+    "Large-scale AI": {
+      "count": 1,
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
       "notes": []
     },
     "Light Pollution": {

@@ -4671,6 +4671,12 @@
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-18"
     },
+    "UI/UX design": {
+      "count": 1,
+      "domain": "Human-Computer Interaction/Design",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
     "Unified Memory": {
       "count": 1,
       "domain": "AI Model Optimization",
@@ -5390,9 +5396,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 75,
+      "count": 76,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "AI Cost Management": {
@@ -5954,9 +5960,9 @@
       "notes": []
     },
     "Generative AI": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Generative BI": {
@@ -6056,9 +6062,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "LLM (Codex)": {
@@ -6149,6 +6155,12 @@
       "count": 1,
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-16",
+      "notes": []
+    },
+    "Machine Learning Frameworks": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Masked Latent Fields": {
@@ -6903,6 +6915,12 @@
       "last_seen": "2026-07-08",
       "notes": []
     },
+    "AI Agent safety and control": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
     "AI Agentic Capabilities & Security": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -6928,9 +6946,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 87,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "AI Benchmarking": {
@@ -6940,9 +6958,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 62,
+      "count": 63,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -7059,6 +7077,12 @@
       "last_seen": "2026-09-24",
       "notes": []
     },
+    "AI adoption in Southeast Asia (aviation)": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "notes": []
+    },
     "AI for Scientific Discovery": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -7069,6 +7093,12 @@
       "count": 1,
       "first_seen": "2026-07-31",
       "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "AI in developer workflow": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Advanced Computing / Semiconductors": {
@@ -7090,9 +7120,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 81,
+      "count": 82,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Agritech": {
@@ -7705,6 +7735,12 @@
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Public perception of AI": {
+      "count": 1,
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
       "notes": []
     },
     "Quant Trading": {

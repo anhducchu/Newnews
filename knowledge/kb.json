@@ -254,9 +254,9 @@
       ]
     },
     "Anthropic": {
-      "count": 31,
+      "count": 32,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -416,6 +416,11 @@
           "date": "2026-09-29",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-09-30",
+          "investors": [],
+          "round": "IPO filing"
         }
       ]
     },
@@ -1832,6 +1837,20 @@
         }
       ]
     },
+    "Limited": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "rounds": [
+        {
+          "date": "2026-09-30",
+          "investors": [
+            "1982 Ventures"
+          ],
+          "round": "seed"
+        }
+      ]
+    },
     "LinqAlpha": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -3222,6 +3241,18 @@
         }
       ]
     },
+    "StockDuty": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "rounds": [
+        {
+          "date": "2026-09-30",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
     "Stripe": {
       "count": 3,
       "first_seen": "2026-08-16",
@@ -3689,6 +3720,18 @@
         }
       ]
     },
+    "Zhipu AI": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "rounds": [
+        {
+          "date": "2026-09-30",
+          "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
     "a16z": {
       "count": 2,
       "first_seen": "2026-08-05",
@@ -3851,6 +3894,18 @@
           "date": "2026-09-29",
           "investors": null,
           "round": null
+        }
+      ]
+    },
+    "lateos-ai": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "rounds": [
+        {
+          "date": "2026-09-30",
+          "investors": [],
+          "round": "N/A"
         }
       ]
     },
@@ -4400,6 +4455,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "Ionic Liquids Transport": {
+      "count": 1,
+      "domain": "Advanced Materials / Energy Storage",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
     "Iroh Networking": {
       "count": 1,
       "domain": "Decentralized Computing",
@@ -4742,6 +4803,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "Tritium Releases Assessment": {
+      "count": 1,
+      "domain": "Energy / Nuclear Fusion/Fission",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
     "Turbovec": {
       "count": 1,
       "domain": "AI Model Optimization",
@@ -4850,6 +4917,12 @@
       "count": 70,
       "first_seen": "2026-06-19",
       "last_seen": "2026-09-25",
+      "pattern_notes": []
+    },
+    "1982 Ventures": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "pattern_notes": []
     },
     "A": {
@@ -5484,6 +5557,12 @@
       "last_seen": "2026-08-07",
       "notes": []
     },
+    "AI Cyber Capabilities": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "AI Education": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -5808,6 +5887,12 @@
       "last_seen": "2026-07-17",
       "notes": []
     },
+    "Cold-start Latency Optimization": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "Combinatorial Optimization": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -5911,9 +5996,9 @@
       "notes": []
     },
     "Diffusion Models": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Digital Health": {
@@ -5976,6 +6061,12 @@
       "last_seen": "2026-08-20",
       "notes": []
     },
+    "Energy-based Neural Networks": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "Fintech": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -6016,6 +6107,12 @@
       "count": 1,
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "GGUF-native": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "GGUFs": {
@@ -6088,6 +6185,12 @@
       "count": 1,
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Hierarchical Blockwise Diffusion Sampling": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "High-Bandwidth Memory (HBM)": {
@@ -6168,6 +6271,12 @@
       "last_seen": "2026-07-20",
       "notes": []
     },
+    "LLM Inference Engine": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "LLM Inference Optimization": {
       "count": 1,
       "first_seen": "2026-07-20",
@@ -6246,6 +6355,12 @@
       "last_seen": "2026-09-28",
       "notes": []
     },
+    "Market News Analysis": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "Masked Latent Fields": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -6304,6 +6419,12 @@
       "count": 1,
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Modern Hopfield Networks": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Multi-Agent Systems": {
@@ -6456,6 +6577,12 @@
       "last_seen": "2026-07-05",
       "notes": []
     },
+    "Path-regularized Fine-tuning": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "Pattern matching (ELIZA)": {
       "count": 1,
       "first_seen": "2026-07-15",
@@ -6478,6 +6605,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Port-Hamiltonian Neural ODE": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Post-Quantum Cryptography": {
@@ -6522,6 +6655,12 @@
       "last_seen": "2026-07-20",
       "notes": []
     },
+    "Quant Picks": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "Quant Trading Strategies": {
       "count": 1,
       "first_seen": "2026-08-19",
@@ -6556,6 +6695,12 @@
       "count": 1,
       "first_seen": "2026-07-06",
       "last_seen": "2026-07-06",
+      "notes": []
+    },
+    "Real-time Agent Decision Loops": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Recursive Language Models": {
@@ -6706,6 +6851,12 @@
       "count": 1,
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "Simulation-based Inference": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Smart Contracts": {
@@ -7035,9 +7186,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 89,
+      "count": 90,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "AI Benchmarking": {
@@ -7047,9 +7198,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -7071,9 +7222,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 75,
+      "count": 76,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "AI Ethics": {
@@ -7154,6 +7305,12 @@
       "last_seen": "2026-07-04",
       "notes": []
     },
+    "AI Security Risk": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "notes": []
+    },
     "AI Talent Market": {
       "count": 1,
       "first_seen": "2026-09-15",
@@ -7209,9 +7366,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 83,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Agritech": {
@@ -7263,9 +7420,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Capital allocation": {
@@ -7392,6 +7549,12 @@
       "count": 1,
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Deep Tech Safety": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Deeptech Playbook SEA": {
@@ -7581,9 +7744,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Generative modeling": {
@@ -7779,9 +7942,9 @@
       "notes": []
     },
     "Optimal Transport": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-09-29",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Payment Infrastructure Efficiency": {
@@ -7839,9 +8002,9 @@
       "notes": []
     },
     "Quant Trading": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Quant Trading & Market Microstructure": {
@@ -7899,9 +8062,9 @@
       "notes": []
     },
     "SEA Fintech": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "SEA Fintech / Payments / Startup Ecosystem": {
@@ -8016,6 +8179,12 @@
       "count": 1,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Uncertainty / OOD / Long-tailed Learning": {
+      "count": 1,
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
       "notes": []
     },
     "Uncertainty / OOD / Long-tailed learning": {

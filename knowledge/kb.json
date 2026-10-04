@@ -254,9 +254,9 @@
       ]
     },
     "Anthropic": {
-      "count": 32,
+      "count": 33,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-04",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -421,6 +421,11 @@
           "date": "2026-09-30",
           "investors": [],
           "round": "IPO filing"
+        },
+        {
+          "date": "2026-10-04",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -748,9 +753,9 @@
       ]
     },
     "Claude": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-29",
-      "last_seen": "2026-08-16",
+      "last_seen": "2026-10-04",
       "rounds": [
         {
           "date": "2026-07-29",
@@ -761,6 +766,11 @@
           "date": "2026-08-16",
           "investors": "not specified",
           "round": "not specified"
+        },
+        {
+          "date": "2026-10-04",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -1478,9 +1488,9 @@
       ]
     },
     "Hugging Face": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-10-04",
       "rounds": [
         {
           "date": "2026-07-21",
@@ -1501,6 +1511,11 @@
           "date": "2026-08-11",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-10-04",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2311,6 +2326,18 @@
         }
       ]
     },
+    "Neko Health": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "rounds": [
+        {
+          "date": "2026-10-04",
+          "investors": "Spotify (David Ek)",
+          "round": "N/A"
+        }
+      ]
+    },
     "Neon": {
       "count": 1,
       "first_seen": "2026-08-05",
@@ -2445,9 +2472,9 @@
       ]
     },
     "OpenAI": {
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-04",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -2602,6 +2629,11 @@
           "date": "2026-09-23",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-10-04",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -3222,6 +3254,18 @@
       "rounds": [
         {
           "date": "2026-09-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
+    "Spotify": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "rounds": [
+        {
+          "date": "2026-10-04",
           "investors": "N/A",
           "round": "N/A"
         }
@@ -4597,6 +4641,12 @@
       "first_seen": "2026-09-10",
       "last_seen": "2026-09-10"
     },
+    "Neko Health": {
+      "count": 1,
+      "domain": "Health Tech, Sensors",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
+    },
     "Novel Enzyme System Discovery": {
       "count": 1,
       "domain": "Biology/Biotech",
@@ -4924,15 +4974,15 @@
   },
   "investors": {
     "(": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     ")": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     ",": {
@@ -4948,9 +4998,9 @@
       "pattern_notes": []
     },
     "/": {
-      "count": 74,
+      "count": 79,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "1982 Ventures": {
@@ -4960,9 +5010,9 @@
       "pattern_notes": []
     },
     "A": {
-      "count": 73,
+      "count": 78,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "AVP": {
@@ -5056,9 +5106,9 @@
       "pattern_notes": []
     },
     "D": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "D1 Capital Partners": {
@@ -5074,9 +5124,9 @@
       "pattern_notes": []
     },
     "E": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "EDBI": {
@@ -5230,9 +5280,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 74,
+      "count": 79,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "O": {
@@ -5272,9 +5322,9 @@
       "pattern_notes": []
     },
     "S": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-07-17",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "SBI": {
@@ -5398,9 +5448,9 @@
       "pattern_notes": []
     },
     "a": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "a16z": {
@@ -5422,9 +5472,9 @@
       "pattern_notes": []
     },
     "d": {
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "e": {
@@ -5434,9 +5484,9 @@
       "pattern_notes": []
     },
     "f": {
-      "count": 27,
+      "count": 28,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "g": {
@@ -5452,15 +5502,15 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 86,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "k": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "l": {
@@ -5482,15 +5532,15 @@
       "pattern_notes": []
     },
     "o": {
-      "count": 75,
+      "count": 76,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "p": {
-      "count": 54,
+      "count": 55,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "q": {
@@ -5512,9 +5562,9 @@
       "pattern_notes": []
     },
     "t": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "u": {
@@ -5524,9 +5574,9 @@
       "pattern_notes": []
     },
     "v": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "w": {
@@ -5536,9 +5586,9 @@
       "pattern_notes": []
     },
     "y": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-04",
       "pattern_notes": []
     },
     "ô": {
@@ -5580,9 +5630,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 78,
+      "count": 79,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "AI Cost Management": {
@@ -5867,6 +5917,18 @@
       "last_seen": "2026-07-27",
       "notes": []
     },
+    "Body Scan Technology": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "notes": []
+    },
+    "Booking System": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "notes": []
+    },
     "Bot Blocking": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -5961,6 +6023,12 @@
       "count": 1,
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
+      "notes": []
+    },
+    "Context Window Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Continual Learning": {
@@ -6063,6 +6131,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "E-commerce": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Edge AI": {
@@ -6282,9 +6356,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 73,
+      "count": 74,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "LLM (Codex)": {
@@ -6666,9 +6740,9 @@
       "notes": []
     },
     "Prompt Engineering": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-24",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Prompt Injection Defense": {
@@ -6903,6 +6977,12 @@
       "count": 1,
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
+      "notes": []
+    },
+    "Social Network": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Sodium-ion Batteries": {
@@ -7261,6 +7341,12 @@
       "last_seen": "2026-10-01",
       "notes": []
     },
+    "AI Engineering and Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "notes": []
+    },
     "AI Ethics": {
       "count": 1,
       "first_seen": "2026-09-15",
@@ -7331,6 +7417,12 @@
       "count": 1,
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
+      "notes": []
+    },
+    "AI Safety and Ethics": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "AI Security": {
@@ -7819,6 +7911,12 @@
       "last_seen": "2026-07-11",
       "notes": []
     },
+    "Integrated Business Platforms": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "notes": []
+    },
     "Interdisciplinary thinking": {
       "count": 1,
       "first_seen": "2026-09-01",
@@ -8003,6 +8101,12 @@
       "count": 1,
       "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "Preventative Medicine and Health Tech": {
+      "count": 1,
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
       "notes": []
     },
     "Privacy-focused AI tools": {

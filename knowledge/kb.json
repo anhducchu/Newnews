@@ -799,14 +799,19 @@
       ]
     },
     "Cloudflare": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-10-07",
       "rounds": [
         {
           "date": "2026-08-08",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-10-07",
+          "investors": "",
+          "round": ""
         }
       ]
     },
@@ -1997,6 +2002,18 @@
           "date": "2026-07-29",
           "investors": "not applicable",
           "round": "not applicable"
+        }
+      ]
+    },
+    "MDI Ventures": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "rounds": [
+        {
+          "date": "2026-10-07",
+          "investors": "TelkomGroup",
+          "round": "investment thesis"
         }
       ]
     },
@@ -3911,6 +3928,18 @@
         }
       ]
     },
+    "ZWhispr": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "rounds": [
+        {
+          "date": "2026-10-07",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
     "Zhipu AI": {
       "count": 1,
       "first_seen": "2026-09-30",
@@ -4233,10 +4262,10 @@
       "last_seen": "2026-07-31"
     },
     "AI Model Optimization": {
-      "count": 15,
+      "count": 16,
       "domain": "AI",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-07"
     },
     "AI Model Optimization for LLM Inference": {
       "count": 1,
@@ -4299,10 +4328,10 @@
       "last_seen": "2026-06-19"
     },
     "Advanced Materials": {
-      "count": 4,
+      "count": 5,
       "domain": "Materials Science",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-08-25"
+      "last_seen": "2026-10-07"
     },
     "Agentic AI for Root Cause Analysis": {
       "count": 1,
@@ -4371,16 +4400,16 @@
       "last_seen": "2026-06-22"
     },
     "Autonomy Stack": {
-      "count": 11,
-      "domain": "Robotics",
+      "count": 12,
+      "domain": "EV/AV",
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-07"
     },
     "Battery Chemistry": {
-      "count": 1,
-      "domain": "EV & Autonomy",
+      "count": 2,
+      "domain": "Materials Science",
       "first_seen": "2026-06-28",
-      "last_seen": "2026-06-28"
+      "last_seen": "2026-10-07"
     },
     "Battery Field Data": {
       "count": 1,
@@ -4441,6 +4470,12 @@
       "domain": "AI/Cognitive Science",
       "first_seen": "2026-06-23",
       "last_seen": "2026-06-23"
+    },
+    "Control Systems": {
+      "count": 1,
+      "domain": "Engineering",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07"
     },
     "Cryptography": {
       "count": 1,
@@ -4545,10 +4580,10 @@
       "last_seen": "2026-06-30"
     },
     "Energy Storage": {
-      "count": 4,
+      "count": 5,
       "domain": "Energy",
       "first_seen": "2026-06-26",
-      "last_seen": "2026-08-25"
+      "last_seen": "2026-10-07"
     },
     "FIBSEM": {
       "count": 1,
@@ -4923,10 +4958,10 @@
       "last_seen": "2026-06-29"
     },
     "Robotics": {
-      "count": 12,
-      "domain": "Robotics",
+      "count": 13,
+      "domain": "Control Systems",
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-07"
     },
     "Robotics Assembly Skills": {
       "count": 1,
@@ -5285,9 +5320,9 @@
       "pattern_notes": []
     },
     "G": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "GFT Ventures": {
@@ -5507,9 +5542,9 @@
       "pattern_notes": []
     },
     "T": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "U": {
@@ -5609,9 +5644,9 @@
       "pattern_notes": []
     },
     "e": {
-      "count": 104,
+      "count": 105,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "f": {
@@ -5639,21 +5674,21 @@
       "pattern_notes": []
     },
     "k": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "l": {
-      "count": 42,
+      "count": 43,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "m": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "n": {
@@ -5663,15 +5698,15 @@
       "pattern_notes": []
     },
     "o": {
-      "count": 76,
+      "count": 78,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "p": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "q": {
@@ -5681,9 +5716,9 @@
       "pattern_notes": []
     },
     "r": {
-      "count": 49,
+      "count": 50,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "s": {
@@ -5699,9 +5734,9 @@
       "pattern_notes": []
     },
     "u": {
-      "count": 20,
+      "count": 21,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-10-07",
       "pattern_notes": []
     },
     "v": {
@@ -5761,9 +5796,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 80,
+      "count": 81,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI Cost Management": {
@@ -5869,9 +5904,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 58,
+      "count": 59,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI agent internet access": {
@@ -6247,9 +6282,9 @@
       "notes": []
     },
     "Diffusion Models": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Digital Health": {
@@ -6334,6 +6369,12 @@
       "count": 1,
       "first_seen": "2026-09-30",
       "last_seen": "2026-09-30",
+      "notes": []
+    },
+    "Ensemble AI": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Fintech": {
@@ -6756,6 +6797,12 @@
       "last_seen": "2026-07-02",
       "notes": []
     },
+    "Nonlinear Model Predictive Control (NMPC)": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
     "Nostr protocol": {
       "count": 1,
       "first_seen": "2026-07-27",
@@ -7032,6 +7079,12 @@
       "last_seen": "2026-10-06",
       "notes": []
     },
+    "Reinforcement Learning (RL)": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
     "Retrieval Augmented Generation (RAG)": {
       "count": 1,
       "first_seen": "2026-08-05",
@@ -7164,6 +7217,12 @@
       "last_seen": "2026-09-02",
       "notes": []
     },
+    "Simulation-Based Inference (SBI)": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
     "Simulation-based Inference": {
       "count": 1,
       "first_seen": "2026-09-30",
@@ -7204,6 +7263,12 @@
       "count": 1,
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
+      "notes": []
+    },
+    "Speech-to-Text (STT)": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Startup Ranking": {
@@ -7354,6 +7419,12 @@
       "count": 1,
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
+      "notes": []
+    },
+    "Variational Autoencoders (VAE)": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Vector Database": {
@@ -7509,9 +7580,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 93,
+      "count": 94,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI Benchmarking": {
@@ -7521,9 +7592,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 67,
+      "count": 68,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -7545,9 +7616,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 79,
+      "count": 80,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -7707,9 +7778,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 87,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Agritech": {
@@ -7761,9 +7832,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 72,
+      "count": 73,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "Capital allocation": {
@@ -7932,6 +8003,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "EV & AV": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "EV & Autonomous": {
@@ -8451,9 +8528,9 @@
       "notes": []
     },
     "SEA fintech / payments / startup ecosystem": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "SEA startup ecosystem": {
@@ -8619,27 +8696,51 @@
       "notes": []
     },
     "capital allocation / VC thesis / moats": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "diffusion models / generative modeling": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
+    "energy & battery": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
+    "new materials": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
+    "optimal transport": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "quant trading & market microstructure": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-10-07",
+      "notes": []
+    },
+    "robotics": {
+      "count": 1,
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
       "notes": []
     },
     "uncertainty / OOD / long-tailed learning": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
+      "last_seen": "2026-10-07",
       "notes": []
     }
   }

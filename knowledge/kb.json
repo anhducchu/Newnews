@@ -2097,6 +2097,22 @@
         }
       ]
     },
+    "Mecka AI": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "rounds": [
+        {
+          "date": "2026-10-08",
+          "investors": [
+            "Sequoia",
+            "Nvidia",
+            "M12"
+          ],
+          "round": "Series B"
+        }
+      ]
+    },
     "Menlo Ventures": {
       "count": 1,
       "first_seen": "2026-06-23",
@@ -4657,6 +4673,12 @@
       "first_seen": "2026-09-21",
       "last_seen": "2026-09-21"
     },
+    "HiPHI Benchmark": {
+      "count": 1,
+      "domain": "Humanoid Robotics/Motion Capture",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "High Frequency Communication": {
       "count": 1,
       "domain": "communication",
@@ -4986,6 +5008,12 @@
       "domain": "Environmental Monitoring",
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-16"
+    },
+    "Self-Supervised Deconvolution of In-Air Sonar Images": {
+      "count": 1,
+      "domain": "Robotics/Sensors",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
     },
     "Semiconductor": {
       "count": 3,
@@ -5421,6 +5449,12 @@
       "last_seen": "2026-09-16",
       "pattern_notes": []
     },
+    "M12": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "pattern_notes": []
+    },
     "Mayfield": {
       "count": 1,
       "first_seen": "2026-09-18",
@@ -5449,6 +5483,12 @@
       "count": 79,
       "first_seen": "2026-06-19",
       "last_seen": "2026-10-04",
+      "pattern_notes": []
+    },
+    "Nvidia": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "pattern_notes": []
     },
     "O": {
@@ -5506,9 +5546,9 @@
       "pattern_notes": []
     },
     "Sequoia": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-10-08",
       "pattern_notes": []
     },
     "SoftBank": {
@@ -6143,6 +6183,12 @@
       "last_seen": "2026-06-22",
       "notes": []
     },
+    "Clipped Decentralized SGD": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "notes": []
+    },
     "Code Generation/Review": {
       "count": 1,
       "first_seen": "2026-07-04",
@@ -6281,6 +6327,12 @@
       "last_seen": "2026-09-29",
       "notes": []
     },
+    "DeepGEMM": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "notes": []
+    },
     "Diffusion Models": {
       "count": 7,
       "first_seen": "2026-06-22",
@@ -6357,6 +6409,12 @@
       "count": 1,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "EmbodiedRSI": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "Energy Analytics": {
@@ -6665,6 +6723,12 @@
       "last_seen": "2026-10-05",
       "notes": []
     },
+    "Long-WAM": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "notes": []
+    },
     "Machine Learning": {
       "count": 1,
       "first_seen": "2026-07-16",
@@ -6903,6 +6967,12 @@
       "count": 1,
       "first_seen": "2026-07-31",
       "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "OpenRouter Models": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "Operating Systems": {
@@ -7568,9 +7638,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "AI Agents in Finance": {
@@ -7685,6 +7755,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "AI Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "AI Payments": {
@@ -7933,10 +8009,22 @@
       "last_seen": "2026-07-28",
       "notes": []
     },
+    "Data for AI": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "notes": []
+    },
     "Decentralized AI Compute": {
       "count": 1,
       "first_seen": "2026-07-08",
       "last_seen": "2026-07-08",
+      "notes": []
+    },
+    "Decentralized Learning": {
+      "count": 1,
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "Decentralized Networking": {
@@ -8480,9 +8568,9 @@
       "notes": []
     },
     "Robotics": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "Robotics & Autonomy": {
@@ -8516,9 +8604,9 @@
       "notes": []
     },
     "SEA Startup Ecosystem": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-08",
       "notes": []
     },
     "SEA fintech": {

@@ -1994,14 +1994,19 @@
       ]
     },
     "MAS": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
+      "last_seen": "2026-10-09",
       "rounds": [
         {
           "date": "2026-07-29",
           "investors": "not applicable",
           "round": "not applicable"
+        },
+        {
+          "date": "2026-10-09",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -2355,9 +2360,9 @@
       ]
     },
     "NVIDIA": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-09",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -2371,6 +2376,11 @@
         },
         {
           "date": "2026-10-01",
+          "investors": "N/A",
+          "round": "N/A"
+        },
+        {
+          "date": "2026-10-09",
           "investors": "N/A",
           "round": "N/A"
         }
@@ -3208,6 +3218,18 @@
         }
       ]
     },
+    "SIT": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "rounds": [
+        {
+          "date": "2026-10-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
     "Sakana AI": {
       "count": 1,
       "first_seen": "2026-06-27",
@@ -3300,6 +3322,18 @@
         {
           "date": "2026-08-07",
           "investors": [],
+          "round": "N/A"
+        }
+      ]
+    },
+    "Singtel": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "rounds": [
+        {
+          "date": "2026-10-09",
+          "investors": "N/A",
           "round": "N/A"
         }
       ]
@@ -3807,6 +3841,18 @@
         }
       ]
     },
+    "Veil": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "rounds": [
+        {
+          "date": "2026-10-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
     "Viettel": {
       "count": 1,
       "first_seen": "2026-09-25",
@@ -4181,6 +4227,18 @@
         }
       ]
     },
+    "openGym": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "rounds": [
+        {
+          "date": "2026-10-09",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
     "opendatalab": {
       "count": 1,
       "first_seen": "2026-06-29",
@@ -4547,6 +4605,12 @@
       "first_seen": "2026-08-11",
       "last_seen": "2026-08-11"
     },
+    "Distribution Network Reconfiguration": {
+      "count": 1,
+      "domain": "Energy",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09"
+    },
     "ELIZA": {
       "count": 1,
       "domain": "Natural Language Processing",
@@ -4756,6 +4820,12 @@
       "domain": "data center infrastructure",
       "first_seen": "2026-09-23",
       "last_seen": "2026-09-23"
+    },
+    "ML Force Fields": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09"
     },
     "Magnetophon": {
       "count": 1,
@@ -5192,9 +5262,9 @@
       "pattern_notes": []
     },
     "/": {
-      "count": 79,
+      "count": 85,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-09",
       "pattern_notes": []
     },
     "1982 Ventures": {
@@ -5204,9 +5274,9 @@
       "pattern_notes": []
     },
     "A": {
-      "count": 78,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-09",
       "pattern_notes": []
     },
     "AVP": {
@@ -5480,9 +5550,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 79,
+      "count": 85,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-09",
       "pattern_notes": []
     },
     "Nvidia": {
@@ -6105,6 +6175,12 @@
       "last_seen": "2026-08-25",
       "notes": []
     },
+    "Bellman Operator": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "BigQuery ML": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -6723,6 +6799,12 @@
       "last_seen": "2026-10-05",
       "notes": []
     },
+    "Long-Tail Distribution": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "Long-WAM": {
       "count": 1,
       "first_seen": "2026-10-08",
@@ -6739,6 +6821,12 @@
       "count": 1,
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
+      "notes": []
+    },
+    "Machine Learning Interatomic Potentials": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Market News Analysis": {
@@ -6877,6 +6965,12 @@
       "count": 2,
       "first_seen": "2026-07-02",
       "last_seen": "2026-09-05",
+      "notes": []
+    },
+    "OOD Prediction": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "OS Security": {
@@ -7041,6 +7135,12 @@
       "last_seen": "2026-07-17",
       "notes": []
     },
+    "Post-Quantum Encryption": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "Prediction Markets": {
       "count": 1,
       "first_seen": "2026-06-23",
@@ -7144,9 +7244,9 @@
       "notes": []
     },
     "Reinforcement Learning": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Reinforcement Learning (RL)": {
@@ -7353,10 +7453,22 @@
       "last_seen": "2026-08-16",
       "notes": []
     },
+    "Stochastic Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "Structured Outputs": {
       "count": 1,
       "first_seen": "2026-07-22",
       "last_seen": "2026-07-22",
+      "notes": []
+    },
+    "Supervised Fine-Tuning": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "System Prompts": {
@@ -7581,6 +7693,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Zero-Knowledge Encryption": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "local-first OS": {
       "count": 1,
       "first_seen": "2026-07-31",
@@ -7662,9 +7780,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -7686,9 +7804,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 80,
+      "count": 81,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -7842,9 +7960,9 @@
       "notes": []
     },
     "Advanced Materials": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Agent economics": {
@@ -7908,9 +8026,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 73,
+      "count": 74,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Capital allocation": {
@@ -7998,9 +8116,9 @@
       "notes": []
     },
     "Data Privacy": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Data Privacy & Security": {
@@ -8175,6 +8293,12 @@
       "count": 1,
       "first_seen": "2026-09-29",
       "last_seen": "2026-09-29",
+      "notes": []
+    },
+    "Energy Grid Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Energy Storage": {
@@ -8357,6 +8481,12 @@
       "last_seen": "2026-07-21",
       "notes": []
     },
+    "Long-tailed Learning": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "Market Microstructure": {
       "count": 4,
       "first_seen": "2026-07-03",
@@ -8415,6 +8545,12 @@
       "count": 3,
       "first_seen": "2026-06-26",
       "last_seen": "2026-09-29",
+      "notes": []
+    },
+    "OOD Learning": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "On-premise Sovereignty": {
@@ -8609,6 +8745,12 @@
       "last_seen": "2026-10-08",
       "notes": []
     },
+    "SEA Startup Ecosystem Accountability": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
     "SEA fintech": {
       "count": 1,
       "first_seen": "2026-08-18",
@@ -8625,6 +8767,18 @@
       "count": 11,
       "first_seen": "2026-06-22",
       "last_seen": "2026-09-13",
+      "notes": []
+    },
+    "Safety-Critical AI": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "notes": []
+    },
+    "Self-Sovereignty": {
+      "count": 1,
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
       "notes": []
     },
     "Semiconductor Failure Analysis": {

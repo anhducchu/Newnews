@@ -283,9 +283,9 @@
       ]
     },
     "Anthropic": {
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-21",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -470,6 +470,11 @@
           "date": "2026-10-16",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-10-21",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -651,6 +656,18 @@
         }
       ]
     },
+    "Betagro": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "rounds": [
+        {
+          "date": "2026-10-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "BioArk": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -685,6 +702,18 @@
       "rounds": [
         {
           "date": "2026-07-27",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
+    "BonBook Travel": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "rounds": [
+        {
+          "date": "2026-10-21",
           "investors": [],
           "round": null
         }
@@ -1144,13 +1173,18 @@
       ]
     },
     "DeepSeek AI": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-06-27",
-      "last_seen": "2026-06-27",
+      "last_seen": "2026-10-21",
       "rounds": [
         {
           "date": "2026-06-27",
           "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-10-21",
+          "investors": [],
           "round": null
         }
       ]
@@ -1440,6 +1474,20 @@
         }
       ]
     },
+    "Freshket": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "rounds": [
+        {
+          "date": "2026-10-21",
+          "investors": [
+            "Betagro Ventures"
+          ],
+          "round": "majority stake acquisition"
+        }
+      ]
+    },
     "Froging AI": {
       "count": 1,
       "first_seen": "2026-08-23",
@@ -1541,6 +1589,18 @@
         }
       ]
     },
+    "GoTo Group": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "rounds": [
+        {
+          "date": "2026-10-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Goodwater Capital": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -1554,9 +1614,9 @@
       ]
     },
     "Google": {
-      "count": 14,
+      "count": 15,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-21",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -1629,6 +1689,11 @@
             "Granite Asia"
           ],
           "round": "AI Futures Fund"
+        },
+        {
+          "date": "2026-10-21",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -4322,6 +4387,18 @@
         }
       ]
     },
+    "Union.ai": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "rounds": [
+        {
+          "date": "2026-10-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Unitree Go2": {
       "count": 1,
       "first_seen": "2026-10-06",
@@ -4941,10 +5018,10 @@
       "last_seen": "2026-10-10"
     },
     "AI Model Optimization": {
-      "count": 18,
-      "domain": "trustworthy AI",
+      "count": 19,
+      "domain": "AI",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-21"
     },
     "AI Model Optimization for LLM Inference": {
       "count": 1,
@@ -5079,10 +5156,10 @@
       "last_seen": "2026-06-22"
     },
     "Autonomy Stack": {
-      "count": 12,
-      "domain": "EV/AV",
+      "count": 13,
+      "domain": "AI",
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-21"
     },
     "Battery Chemistry": {
       "count": 2,
@@ -6022,6 +6099,12 @@
       "last_seen": "2026-07-05",
       "pattern_notes": []
     },
+    "Betagro Ventures": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "pattern_notes": []
+    },
     "BlueOrchard": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -6607,9 +6690,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 39,
+      "count": 40,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -6619,9 +6702,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 89,
+      "count": 90,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI Benchmarks": {
@@ -6763,9 +6846,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 65,
+      "count": 66,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI agent internet access": {
@@ -6898,6 +6981,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Apple Silicon": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "Apple Vision": {
@@ -7362,6 +7451,12 @@
       "last_seen": "2026-09-21",
       "notes": []
     },
+    "GPU Workloads": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "notes": []
+    },
     "GPU financing": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -7387,9 +7482,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "Generative Models": {
@@ -7470,6 +7565,12 @@
       "last_seen": "2026-07-22",
       "notes": []
     },
+    "Inference Framework": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "notes": []
+    },
     "Intelligent Power Management Chips": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -7495,9 +7596,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 81,
+      "count": 82,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8016,6 +8117,12 @@
       "last_seen": "2026-07-20",
       "notes": []
     },
+    "PyTorch": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "notes": []
+    },
     "Quant Picks": {
       "count": 1,
       "first_seen": "2026-09-30",
@@ -8334,6 +8441,12 @@
       "last_seen": "2026-10-06",
       "notes": []
     },
+    "TPU": {
+      "count": 1,
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "notes": []
+    },
     "TTS": {
       "count": 1,
       "first_seen": "2026-07-31",
@@ -8631,9 +8744,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 104,
+      "count": 105,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI Benchmarking": {
@@ -8643,9 +8756,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 76,
+      "count": 77,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -8667,9 +8780,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 89,
+      "count": 90,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -8835,9 +8948,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 97,
+      "count": 98,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "Agritech": {
@@ -8895,9 +9008,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 83,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-10-21",
       "notes": []
     },
     "Capital allocation": {

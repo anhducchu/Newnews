@@ -288,9 +288,9 @@
       ]
     },
     "Anthropic": {
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -483,6 +483,11 @@
         },
         {
           "date": "2026-10-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-10-23",
           "investors": null,
           "round": null
         }
@@ -1766,9 +1771,9 @@
       ]
     },
     "Grab": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-23",
       "rounds": [
         {
           "date": "2026-09-16",
@@ -1782,6 +1787,11 @@
             "PETROS"
           ],
           "round": "AI Infra Exploration"
+        },
+        {
+          "date": "2026-10-23",
+          "investors": null,
+          "round": "Acquisition attempt"
         }
       ]
     },
@@ -1852,6 +1862,18 @@
       "rounds": [
         {
           "date": "2026-10-18",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Headroom Labs": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "rounds": [
+        {
+          "date": "2026-10-23",
           "investors": null,
           "round": null
         }
@@ -2838,9 +2860,9 @@
       ]
     },
     "NVIDIA": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-23",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -2861,6 +2883,11 @@
           "date": "2026-10-09",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-10-23",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -3075,9 +3102,9 @@
       ]
     },
     "OpenAI": {
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -3245,6 +3272,11 @@
         },
         {
           "date": "2026-10-22",
+          "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-10-23",
           "investors": null,
           "round": null
         }
@@ -4106,6 +4138,18 @@
         }
       ]
     },
+    "Stably AI": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "rounds": [
+        {
+          "date": "2026-10-23",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Stanley Robotics": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -4589,6 +4633,18 @@
           "date": "2026-09-25",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "VinFast": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "rounds": [
+        {
+          "date": "2026-10-23",
+          "investors": "Vingroup",
+          "round": "Investment"
         }
       ]
     },
@@ -5122,6 +5178,12 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20"
     },
+    "AI Engineering Limits": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
     "AI Memory Wall": {
       "count": 1,
       "domain": "Semiconductor",
@@ -5253,6 +5315,12 @@
       "domain": "Autonomy Stack",
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02"
+    },
+    "Autonomous AI Agent Runtime": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     "Autonomous Agent Training": {
       "count": 1,
@@ -5422,6 +5490,12 @@
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-23"
     },
+    "EV Manufacturing": {
+      "count": 1,
+      "domain": "Battery Tech",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
     "EV technology": {
       "count": 1,
       "domain": "Clean Mobility",
@@ -5493,6 +5567,12 @@
       "domain": "semiconductor manufacturing",
       "first_seen": "2026-07-05",
       "last_seen": "2026-07-05"
+    },
+    "Formal Software Verification": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     "Foundation Stack for General-Purpose Robots": {
       "count": 1,
@@ -6009,6 +6089,12 @@
       "domain": "Social Impact / Human Capital",
       "first_seen": "2026-07-28",
       "last_seen": "2026-07-28"
+    },
+    "Tech Policy Advocacy": {
+      "count": 1,
+      "domain": "General Deep Tech Ecosystem",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
     },
     "Triangulene-based Superatomic Graphene": {
       "count": 1,
@@ -6577,9 +6663,9 @@
       "pattern_notes": []
     },
     "V": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-17",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "VentureTECH": {
@@ -6679,9 +6765,9 @@
       "pattern_notes": []
     },
     "g": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-03",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "h": {
@@ -6691,9 +6777,9 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 103,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "k": {
@@ -6715,21 +6801,21 @@
       "pattern_notes": []
     },
     "n": {
-      "count": 93,
+      "count": 94,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "o": {
-      "count": 84,
+      "count": 85,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "p": {
-      "count": 61,
+      "count": 62,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "q": {
@@ -6739,9 +6825,9 @@
       "pattern_notes": []
     },
     "r": {
-      "count": 55,
+      "count": 56,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "s": {
@@ -6757,9 +6843,9 @@
       "pattern_notes": []
     },
     "u": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "pattern_notes": []
     },
     "v": {
@@ -6813,9 +6899,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -6825,9 +6911,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 91,
+      "count": 92,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI Benchmarks": {
@@ -6969,9 +7055,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 67,
+      "count": 68,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI agent internet access": {
@@ -7122,6 +7208,12 @@
       "count": 1,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Autonomous AI Agent Runtime": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Autonomous Driving": {
@@ -7302,6 +7394,12 @@
       "count": 1,
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-09",
+      "notes": []
+    },
+    "Context Compression": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Context Engineering": {
@@ -7544,6 +7642,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Formal Software Verification": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "notes": []
+    },
     "Frontier Safeguards": {
       "count": 1,
       "first_seen": "2026-09-02",
@@ -7608,6 +7712,12 @@
       "count": 63,
       "first_seen": "2026-06-23",
       "last_seen": "2026-10-22",
+      "notes": []
+    },
+    "Generative Modeling (LLMs)": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Generative Models": {
@@ -7719,9 +7829,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 83,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8867,9 +8977,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 106,
+      "count": 107,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI Benchmarking": {
@@ -8879,9 +8989,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 78,
+      "count": 79,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -8903,9 +9013,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 91,
+      "count": 92,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -9071,9 +9181,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 99,
+      "count": 100,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Agritech": {
@@ -9119,9 +9229,9 @@
       "notes": []
     },
     "Capital Allocation / VC Thesis / Moats": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Capital Allocation in SEA": {
@@ -9131,9 +9241,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 85,
+      "count": 86,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "Capital allocation": {
@@ -9350,6 +9460,12 @@
       "count": 1,
       "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
+      "notes": []
+    },
+    "EV & Battery Tech": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "EV Adoption": {
@@ -9772,6 +9888,12 @@
       "last_seen": "2026-06-28",
       "notes": []
     },
+    "Policy & Tech Funding": {
+      "count": 1,
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "notes": []
+    },
     "Prediction Markets": {
       "count": 1,
       "first_seen": "2026-10-17",
@@ -9893,9 +10015,9 @@
       "notes": []
     },
     "SEA Fintech / Payments / Startup Ecosystem": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-23",
       "notes": []
     },
     "SEA Fintech Dynamics": {

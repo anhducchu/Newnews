@@ -275,6 +275,18 @@
         }
       ]
     },
+    "Analog Devices": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Ant International": {
       "count": 1,
       "first_seen": "2026-08-11",
@@ -857,6 +869,18 @@
         }
       ]
     },
+    "Carro": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Castform": {
       "count": 1,
       "first_seen": "2026-08-05",
@@ -918,9 +942,9 @@
       ]
     },
     "Claude": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-07-29",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-24",
       "rounds": [
         {
           "date": "2026-07-29",
@@ -936,6 +960,11 @@
           "date": "2026-10-04",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1259,6 +1288,18 @@
       "rounds": [
         {
           "date": "2026-09-13",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
+    "Dessa": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
           "investors": null,
           "round": null
         }
@@ -1653,9 +1694,9 @@
       ]
     },
     "Google": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-24",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -1733,6 +1774,11 @@
           "date": "2026-10-21",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -1771,9 +1817,9 @@
       ]
     },
     "Grab": {
-      "count": 3,
+      "count": 4,
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "rounds": [
         {
           "date": "2026-09-16",
@@ -1792,6 +1838,11 @@
           "date": "2026-10-23",
           "investors": null,
           "round": "Acquisition attempt"
+        },
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -2202,14 +2253,19 @@
       ]
     },
     "Kimi": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-10-24",
       "rounds": [
         {
           "date": "2026-07-16",
           "investors": [],
           "round": ""
+        },
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -4518,6 +4574,18 @@
         }
       ]
     },
+    "Uber": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "Ubicloud": {
       "count": 1,
       "first_seen": "2026-07-03",
@@ -4938,6 +5006,18 @@
         }
       ]
     },
+    "foodpanda": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "rounds": [
+        {
+          "date": "2026-10-24",
+          "investors": null,
+          "round": null
+        }
+      ]
+    },
     "iFixAi": {
       "count": 1,
       "first_seen": "2026-10-16",
@@ -5285,6 +5365,12 @@
       "domain": "Semiconductors / Advanced Materials",
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
+    },
+    "Analog Integrated Circuit Design": {
+      "count": 1,
+      "domain": "semiconductor",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
     },
     "Antenna Coupling": {
       "count": 1,
@@ -6911,9 +6997,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 92,
+      "count": 93,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7192,6 +7278,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Analog IC Design": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "notes": []
+    },
     "Apple Silicon": {
       "count": 1,
       "first_seen": "2026-10-21",
@@ -7418,6 +7510,12 @@
       "count": 1,
       "first_seen": "2026-09-07",
       "last_seen": "2026-09-07",
+      "notes": []
+    },
+    "Cost Optimization": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Custom trained AI enhancement model": {
@@ -7829,9 +7927,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 84,
+      "count": 85,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "LLM (Codex)": {
@@ -7952,6 +8050,12 @@
       "count": 1,
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08",
+      "notes": []
+    },
+    "Long-context window": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "MLX": {
@@ -8512,6 +8616,12 @@
       "last_seen": "2026-07-31",
       "notes": []
     },
+    "Securitization": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "notes": []
+    },
     "Security Vulnerabilities": {
       "count": 1,
       "first_seen": "2026-07-04",
@@ -8618,6 +8728,12 @@
       "count": 1,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "Speech Models": {
+      "count": 1,
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Speech-to-Text": {
@@ -8977,9 +9093,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 107,
+      "count": 108,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9013,9 +9129,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 92,
+      "count": 93,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -9181,9 +9297,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 100,
+      "count": 101,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Agritech": {
@@ -9223,9 +9339,9 @@
       "notes": []
     },
     "Capital Allocation": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Capital Allocation / VC Thesis / Moats": {
@@ -9331,9 +9447,9 @@
       "notes": []
     },
     "Data Privacy": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-07-13",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Data Privacy & Security": {
@@ -9625,9 +9741,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 33,
+      "count": 34,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Generative modeling": {
@@ -9757,9 +9873,9 @@
       "notes": []
     },
     "Market Microstructure": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-03",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "Material Science for Optoelectronics": {
@@ -10003,9 +10119,9 @@
       "notes": []
     },
     "SEA Fintech": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-24",
       "notes": []
     },
     "SEA Fintech & Startup Ecosystem": {

@@ -1003,9 +1003,9 @@
       ]
     },
     "Cloudflare": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-08",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-27",
       "rounds": [
         {
           "date": "2026-08-08",
@@ -1014,6 +1014,11 @@
         },
         {
           "date": "2026-10-07",
+          "investors": "",
+          "round": ""
+        },
+        {
+          "date": "2026-10-27",
           "investors": "",
           "round": ""
         }
@@ -1691,6 +1696,18 @@
         }
       ]
     },
+    "GlobalFoundries": {
+      "count": 1,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "rounds": [
+        {
+          "date": "2026-10-27",
+          "investors": "",
+          "round": ""
+        }
+      ]
+    },
     "GoTo Group": {
       "count": 1,
       "first_seen": "2026-10-21",
@@ -2026,26 +2043,36 @@
       ]
     },
     "IBM": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-10-27",
       "rounds": [
         {
           "date": "2026-08-25",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-10-27",
+          "investors": "",
+          "round": ""
         }
       ]
     },
     "IEEE": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-27",
       "rounds": [
         {
           "date": "2026-10-17",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-10-27",
+          "investors": "",
+          "round": ""
         }
       ]
     },
@@ -3185,9 +3212,9 @@
       ]
     },
     "OpenAI": {
-      "count": 35,
+      "count": 36,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -3367,6 +3394,11 @@
           "date": "2026-10-26",
           "investors": [],
           "round": null
+        },
+        {
+          "date": "2026-10-27",
+          "investors": "",
+          "round": ""
         }
       ]
     },
@@ -5361,6 +5393,12 @@
       "first_seen": "2026-08-24",
       "last_seen": "2026-08-24"
     },
+    "AI-run Control Room": {
+      "count": 1,
+      "domain": "Autonomy Stack/Industrial Automation",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     "ALOHAnet": {
       "count": 1,
       "domain": "Networking",
@@ -5793,6 +5831,12 @@
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
+    "Hydrogen": {
+      "count": 1,
+      "domain": "Energy Storage",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     "Hydrogen Production": {
       "count": 1,
       "domain": "Energy & Pin",
@@ -5876,6 +5920,12 @@
       "domain": "Advanced Materials",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09"
+    },
+    "Magnetic Imager": {
+      "count": 1,
+      "domain": "Robotics/Sensor Stack",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     "Magnetophon": {
       "count": 1,
@@ -6242,6 +6292,12 @@
       "domain": "Energy / Nuclear Fusion/Fission",
       "first_seen": "2026-09-30",
       "last_seen": "2026-09-30"
+    },
+    "Tropical Solar Panels": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     "Turbovec": {
       "count": 1,
@@ -7046,9 +7102,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 95,
+      "count": 96,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7148,9 +7204,9 @@
       "notes": []
     },
     "AI Model Optimization": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI Payments": {
@@ -7190,9 +7246,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI agent internet access": {
@@ -7856,9 +7912,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 64,
+      "count": 65,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -7976,9 +8032,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 87,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "LLM (Codex)": {
@@ -9166,9 +9222,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 110,
+      "count": 111,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9178,9 +9234,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 80,
+      "count": 81,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9202,9 +9258,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 95,
+      "count": 96,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -9358,9 +9414,9 @@
       "notes": []
     },
     "Advanced Materials": {
-      "count": 5,
+      "count": 6,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "Agent economics": {
@@ -9370,9 +9426,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 103,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "Agritech": {
@@ -9430,9 +9486,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 88,
+      "count": 89,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "Capital allocation": {
@@ -9730,9 +9786,9 @@
       "notes": []
     },
     "Energy Storage": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-25",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "Energy Storage / Quantum Tech": {
@@ -10216,9 +10272,9 @@
       "notes": []
     },
     "SEA Startup Ecosystem": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-27",
       "notes": []
     },
     "SEA Startup Ecosystem Accountability": {

@@ -5419,10 +5419,10 @@
       "last_seen": "2026-10-10"
     },
     "AI Model Optimization": {
-      "count": 19,
-      "domain": "AI",
+      "count": 20,
+      "domain": "AI Model Optimization",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-29"
     },
     "AI Model Optimization for LLM Inference": {
       "count": 1,
@@ -5491,10 +5491,10 @@
       "last_seen": "2026-06-19"
     },
     "Advanced Materials": {
-      "count": 5,
-      "domain": "Materials Science",
+      "count": 6,
+      "domain": "Advanced Materials",
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-29"
     },
     "Agentic AI for Root Cause Analysis": {
       "count": 1,
@@ -5593,10 +5593,10 @@
       "last_seen": "2026-10-06"
     },
     "Battery Tech": {
-      "count": 1,
-      "domain": "energy & battery",
+      "count": 2,
+      "domain": "Energy Storage",
       "first_seen": "2026-06-26",
-      "last_seen": "2026-06-26"
+      "last_seen": "2026-10-29"
     },
     "Battery Technology": {
       "count": 1,
@@ -5765,6 +5765,12 @@
       "domain": "EV & autonomous",
       "first_seen": "2026-07-08",
       "last_seen": "2026-07-08"
+    },
+    "Electric Flight": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29"
     },
     "Electric Truck Battery Design": {
       "count": 1,
@@ -6241,10 +6247,10 @@
       "last_seen": "2026-06-29"
     },
     "Robotics": {
-      "count": 17,
-      "domain": "robotics",
+      "count": 18,
+      "domain": "Robotics",
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "Robotics Assembly Skills": {
       "count": 1,
@@ -7174,6 +7180,12 @@
       "last_seen": "2026-10-14",
       "notes": []
     },
+    "3D Printing": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "notes": []
+    },
     "ADAS": {
       "count": 1,
       "first_seen": "2026-09-09",
@@ -7199,9 +7211,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 97,
+      "count": 98,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7343,9 +7355,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 71,
+      "count": 72,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "AI agent internet access": {
@@ -7612,6 +7624,12 @@
       "last_seen": "2026-09-11",
       "notes": []
     },
+    "CLI": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "notes": []
+    },
     "Causality Theory": {
       "count": 1,
       "first_seen": "2026-07-12",
@@ -7724,6 +7742,12 @@
       "count": 1,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Cybersecurity": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Cybersecurity AI": {
@@ -8009,9 +8033,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 66,
+      "count": 67,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -8129,9 +8153,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 89,
+      "count": 90,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8240,6 +8264,12 @@
       "count": 1,
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-05",
+      "notes": []
+    },
+    "Local-first desktop workspace": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Long-Tail Distribution": {
@@ -8722,6 +8752,12 @@
       "last_seen": "2026-07-06",
       "notes": []
     },
+    "RISC-V CPU": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "notes": []
+    },
     "Real-time Agent Decision Loops": {
       "count": 1,
       "first_seen": "2026-09-30",
@@ -9002,6 +9038,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "Systems Thinking": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "TLA+ model checking": {
@@ -9319,9 +9361,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 111,
+      "count": 112,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9331,9 +9373,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 82,
+      "count": 83,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9355,9 +9397,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 97,
+      "count": 98,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -9511,9 +9553,9 @@
       "notes": []
     },
     "Advanced Materials": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Agent economics": {
@@ -9523,9 +9565,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 104,
+      "count": 105,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Agritech": {
@@ -9583,9 +9625,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 89,
+      "count": 90,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Capital allocation": {
@@ -9967,9 +10009,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 36,
+      "count": 37,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Generative modeling": {
@@ -10152,6 +10194,12 @@
       "last_seen": "2026-06-22",
       "notes": []
     },
+    "OOD": {
+      "count": 1,
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "notes": []
+    },
     "OOD / Long-tailed learning": {
       "count": 3,
       "first_seen": "2026-06-26",
@@ -10327,9 +10375,9 @@
       "notes": []
     },
     "Robotics": {
-      "count": 15,
+      "count": 16,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Robotics & Autonomy": {
@@ -10399,9 +10447,9 @@
       "notes": []
     },
     "SEA startup ecosystem": {
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-29",
       "notes": []
     },
     "Safety-Critical AI": {

@@ -331,9 +331,9 @@
       ]
     },
     "Anthropic": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-31",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -549,6 +549,13 @@
             "Spark Capital"
           ],
           "round": "IPO"
+        },
+        {
+          "date": "2026-10-31",
+          "investors": [
+            "Blackstone"
+          ],
+          "round": "IPO (expected)"
         }
       ]
     },
@@ -739,6 +746,18 @@
           "date": "2026-10-21",
           "investors": [],
           "round": null
+        }
+      ]
+    },
+    "Binance": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [],
+          "round": "N/A"
         }
       ]
     },
@@ -2000,6 +2019,21 @@
         }
       ]
     },
+    "HASAN.VC": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [
+            "Moria Ventures",
+            "Gulf capital"
+          ],
+          "round": "N/A"
+        }
+      ]
+    },
     "HKUDS": {
       "count": 1,
       "first_seen": "2026-09-25",
@@ -3002,6 +3036,18 @@
           "date": "2026-08-25",
           "investors": null,
           "round": null
+        }
+      ]
+    },
+    "Multispace.dev": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "rounds": [
+        {
+          "date": "2026-10-31",
+          "investors": [],
+          "round": "N/A"
         }
       ]
     },
@@ -6602,6 +6648,12 @@
       "last_seen": "2026-10-21",
       "pattern_notes": []
     },
+    "Blackstone": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "pattern_notes": []
+    },
     "BlueOrchard": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -6728,6 +6780,12 @@
       "last_seen": "2026-10-10",
       "pattern_notes": []
     },
+    "Gulf capital": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "pattern_notes": []
+    },
     "H": {
       "count": 3,
       "first_seen": "2026-06-19",
@@ -6828,6 +6886,12 @@
       "count": 1,
       "first_seen": "2026-08-19",
       "last_seen": "2026-08-19",
+      "pattern_notes": []
+    },
+    "Moria Ventures": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
       "pattern_notes": []
     },
     "N": {
@@ -7211,9 +7275,9 @@
       "notes": []
     },
     "AI Agent Control": {
-      "count": 43,
+      "count": 44,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI Agentic Coding": {
@@ -7223,9 +7287,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 99,
+      "count": 100,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7373,9 +7437,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 73,
+      "count": 74,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI agent internet access": {
@@ -8051,9 +8115,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -8171,9 +8235,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 91,
+      "count": 92,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8903,9 +8967,9 @@
       "notes": []
     },
     "Security Vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Self-hostable platforms": {
@@ -9403,9 +9467,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 112,
+      "count": 113,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9415,9 +9479,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 83,
+      "count": 84,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9439,9 +9503,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 98,
+      "count": 99,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -9619,9 +9683,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 105,
+      "count": 106,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Agritech": {
@@ -9679,9 +9743,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 90,
+      "count": 91,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Capital allocation": {
@@ -9748,6 +9812,12 @@
       "count": 1,
       "first_seen": "2026-08-20",
       "last_seen": "2026-08-20",
+      "notes": []
+    },
+    "Cybersecurity in Crypto": {
+      "count": 1,
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Data Access / Scraping": {
@@ -10525,9 +10595,9 @@
       "notes": []
     },
     "SEA startup ecosystem": {
-      "count": 13,
+      "count": 14,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-31",
       "notes": []
     },
     "Safety-Critical AI": {

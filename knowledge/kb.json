@@ -577,9 +577,9 @@
       ]
     },
     "Apple": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-11-02",
       "rounds": [
         {
           "date": "2026-07-10",
@@ -600,6 +600,11 @@
           "date": "2026-10-17",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-11-02",
+          "investors": "not applicable",
+          "round": "not applicable"
         }
       ]
     },
@@ -3576,6 +3581,18 @@
         }
       ]
     },
+    "OpenMausBot": {
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "rounds": [
+        {
+          "date": "2026-11-02",
+          "investors": "not applicable",
+          "round": "not applicable"
+        }
+      ]
+    },
     "OpenRouter": {
       "count": 3,
       "first_seen": "2026-08-16",
@@ -3621,6 +3638,18 @@
           "date": "2026-08-07",
           "investors": [],
           "round": "N/A"
+        }
+      ]
+    },
+    "Orkas-AI": {
+      "count": 1,
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "rounds": [
+        {
+          "date": "2026-11-02",
+          "investors": "not applicable",
+          "round": "not applicable"
         }
       ]
     },
@@ -5504,10 +5533,10 @@
       "last_seen": "2026-10-10"
     },
     "AI Model Optimization": {
-      "count": 21,
+      "count": 22,
       "domain": "AI",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-11-02"
     },
     "AI Model Optimization for LLM Inference": {
       "count": 1,
@@ -7120,9 +7149,9 @@
       "pattern_notes": []
     },
     "a": {
-      "count": 79,
+      "count": 85,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "a16z": {
@@ -7132,15 +7161,15 @@
       "pattern_notes": []
     },
     "b": {
-      "count": 20,
+      "count": 23,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "c": {
-      "count": 59,
+      "count": 62,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "d": {
@@ -7150,9 +7179,9 @@
       "pattern_notes": []
     },
     "e": {
-      "count": 120,
+      "count": 123,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "f": {
@@ -7174,9 +7203,9 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 104,
+      "count": 107,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "k": {
@@ -7186,9 +7215,9 @@
       "pattern_notes": []
     },
     "l": {
-      "count": 47,
+      "count": 53,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "m": {
@@ -7198,21 +7227,21 @@
       "pattern_notes": []
     },
     "n": {
-      "count": 95,
+      "count": 98,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "o": {
-      "count": 85,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "p": {
-      "count": 62,
+      "count": 68,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "q": {
@@ -7234,9 +7263,9 @@
       "pattern_notes": []
     },
     "t": {
-      "count": 78,
+      "count": 81,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-02",
       "pattern_notes": []
     },
     "u": {
@@ -7314,9 +7343,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 101,
+      "count": 102,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7464,9 +7493,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 75,
+      "count": 76,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "AI agent internet access": {
@@ -8142,9 +8171,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 69,
+      "count": 70,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -9506,9 +9535,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 114,
+      "count": 115,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9518,9 +9547,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 85,
+      "count": 86,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9722,9 +9751,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 107,
+      "count": 108,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Agritech": {
@@ -9782,9 +9811,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 92,
+      "count": 93,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "notes": []
     },
     "Capital allocation": {

@@ -130,6 +130,18 @@
         }
       ]
     },
+    "Agent Remote": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "Show HN"
+        }
+      ]
+    },
     "Agent-Reach": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -684,6 +696,18 @@
           "date": "2026-10-01",
           "investors": "N/A",
           "round": "Fund I"
+        }
+      ]
+    },
+    "BYD": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -1740,6 +1764,18 @@
         }
       ]
     },
+    "GPT-6 Astra": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "N/A"
+        }
+      ]
+    },
     "GV": {
       "count": 1,
       "first_seen": "2026-10-10",
@@ -2345,6 +2381,18 @@
           "date": "2026-06-29",
           "investors": [],
           "round": null
+        }
+      ]
+    },
+    "Intel": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -3771,6 +3819,18 @@
         }
       ]
     },
+    "PhoneUse": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "rounds": [
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "Show HN"
+        }
+      ]
+    },
     "Pi": {
       "count": 1,
       "first_seen": "2026-10-06",
@@ -4040,14 +4100,19 @@
       ]
     },
     "Qwen": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
+      "last_seen": "2026-11-03",
       "rounds": [
         {
           "date": "2026-08-14",
           "investors": null,
           "round": null
+        },
+        {
+          "date": "2026-11-03",
+          "investors": "N/A",
+          "round": "N/A"
         }
       ]
     },
@@ -5893,10 +5958,10 @@
       "last_seen": "2026-10-17"
     },
     "Electric Vehicles": {
-      "count": 2,
-      "domain": "Transportation",
+      "count": 3,
+      "domain": "Automotive",
       "first_seen": "2026-07-08",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-03"
     },
     "Energy Grid Management": {
       "count": 1,
@@ -6414,6 +6479,12 @@
       "first_seen": "2026-08-21",
       "last_seen": "2026-08-21"
     },
+    "Semiconductors": {
+      "count": 1,
+      "domain": "Materials/Hardware",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
     "Sensor Stack": {
       "count": 2,
       "domain": "EV & Autonomy",
@@ -6621,9 +6692,9 @@
       "pattern_notes": []
     },
     "/": {
-      "count": 98,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-03",
       "pattern_notes": []
     },
     "1982 Ventures": {
@@ -6633,9 +6704,9 @@
       "pattern_notes": []
     },
     "A": {
-      "count": 97,
+      "count": 103,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-03",
       "pattern_notes": []
     },
     "AVP": {
@@ -6951,9 +7022,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 101,
+      "count": 107,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-03",
       "pattern_notes": []
     },
     "Nvidia": {
@@ -7343,9 +7414,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 102,
+      "count": 103,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "AI Benchmarks": {
@@ -8171,9 +8242,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 70,
+      "count": 71,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -8291,9 +8362,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 93,
+      "count": 94,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8594,6 +8665,12 @@
       "count": 1,
       "first_seen": "2026-07-02",
       "last_seen": "2026-07-02",
+      "notes": []
+    },
+    "Neural Network Optimization": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Nonlinear Model Predictive Control (NMPC)": {
@@ -9510,6 +9587,12 @@
       "last_seen": "2026-09-28",
       "notes": []
     },
+    "AI Agentic Capabilities": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "notes": []
+    },
     "AI Agentic Capabilities & Security": {
       "count": 1,
       "first_seen": "2026-07-21",
@@ -9634,6 +9717,12 @@
       "count": 1,
       "first_seen": "2026-07-21",
       "last_seen": "2026-07-21",
+      "notes": []
+    },
+    "AI Narrative Scrutiny": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "AI Operating Model": {
@@ -9930,6 +10019,12 @@
       "last_seen": "2026-07-08",
       "notes": []
     },
+    "Decentralized Innovation Hubs": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "notes": []
+    },
     "Decentralized Learning": {
       "count": 1,
       "first_seen": "2026-10-08",
@@ -9970,6 +10065,12 @@
       "count": 1,
       "first_seen": "2026-08-25",
       "last_seen": "2026-08-25",
+      "notes": []
+    },
+    "Deep Tech Market Expansion": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Deep Tech Safety": {
@@ -10668,6 +10769,12 @@
       "last_seen": "2026-10-09",
       "notes": []
     },
+    "SEA Startup Ecosystem Evolution": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "notes": []
+    },
     "SEA fintech": {
       "count": 1,
       "first_seen": "2026-08-18",
@@ -10702,6 +10809,12 @@
       "count": 1,
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Semiconductor Industry Challenges": {
+      "count": 1,
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
       "notes": []
     },
     "Sensor stack": {

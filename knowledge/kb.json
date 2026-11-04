@@ -1520,6 +1520,20 @@
         }
       ]
     },
+    "Econili": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "rounds": [
+        {
+          "date": "2026-11-04",
+          "investors": [
+            "Vynn Capital"
+          ],
+          "round": "extension"
+        }
+      ]
+    },
     "Edote": {
       "count": 1,
       "first_seen": "2026-08-14",
@@ -3006,6 +3020,18 @@
           "date": "2026-10-17",
           "investors": null,
           "round": null
+        }
+      ]
+    },
+    "Modelpeers": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "rounds": [
+        {
+          "date": "2026-11-04",
+          "investors": [],
+          "round": "startup"
         }
       ]
     },
@@ -5453,6 +5479,18 @@
         }
       ]
     },
+    "nanochat": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "rounds": [
+        {
+          "date": "2026-11-04",
+          "investors": [],
+          "round": "project"
+        }
+      ]
+    },
     "openGym": {
       "count": 1,
       "first_seen": "2026-10-09",
@@ -5735,6 +5773,12 @@
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02"
     },
+    "Attack-Aware Intrusion Risk Monitoring": {
+      "count": 1,
+      "domain": "Autonomy Stack",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
     "Autonomous AI Agent Runtime": {
       "count": 1,
       "domain": "Autonomy Stack",
@@ -5770,6 +5814,12 @@
       "domain": "Energy Storage",
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06"
+    },
+    "Battery Recycling": {
+      "count": 1,
+      "domain": "Energy Storage",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     },
     "Battery Tech": {
       "count": 2,
@@ -5890,6 +5940,12 @@
       "domain": "SEA Fintech / Payments / Startup Ecosystem",
       "first_seen": "2026-08-11",
       "last_seen": "2026-08-11"
+    },
+    "Digital Twins": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     },
     "Distribution Network Reconfiguration": {
       "count": 1,
@@ -6034,6 +6090,12 @@
       "domain": "Robotics",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14"
+    },
+    "Generative AI Foundations": {
+      "count": 1,
+      "domain": "Machine Learning Theory",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     },
     "Generative Modeling": {
       "count": 1,
@@ -6196,6 +6258,12 @@
       "domain": "Advanced Materials",
       "first_seen": "2026-08-02",
       "last_seen": "2026-08-02"
+    },
+    "Magnon-phonon resonance": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     },
     "Medical Information System (MIS-I)": {
       "count": 1,
@@ -6412,6 +6480,12 @@
       "domain": "Software Engineering",
       "first_seen": "2026-08-01",
       "last_seen": "2026-08-01"
+    },
+    "Risk Quantification": {
+      "count": 1,
+      "domain": "Quantitative Finance",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
     },
     "Robot Safety": {
       "count": 1,
@@ -7172,9 +7246,9 @@
       "pattern_notes": []
     },
     "Vynn Capital": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-02",
-      "last_seen": "2026-07-02",
+      "last_seen": "2026-11-04",
       "pattern_notes": []
     },
     "W": {
@@ -7414,9 +7488,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 103,
+      "count": 104,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7521,6 +7595,12 @@
       "last_seen": "2026-08-07",
       "notes": []
     },
+    "AI Model Monitoring": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "notes": []
+    },
     "AI Model Optimization": {
       "count": 17,
       "first_seen": "2026-07-10",
@@ -7564,9 +7644,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 76,
+      "count": 77,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "AI agent internet access": {
@@ -7995,6 +8075,12 @@
       "last_seen": "2026-07-26",
       "notes": []
     },
+    "Data-driven policies": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "notes": []
+    },
     "Database Tools": {
       "count": 1,
       "first_seen": "2026-07-25",
@@ -8032,9 +8118,9 @@
       "notes": []
     },
     "Diffusion Models": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Digital Health": {
@@ -8047,6 +8133,12 @@
       "count": 1,
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
+      "notes": []
+    },
+    "Digital Twins": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Distillation": {
@@ -8181,10 +8273,22 @@
       "last_seen": "2026-10-23",
       "notes": []
     },
+    "Fractional-reserve banking (system)": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "notes": []
+    },
     "Frontier Safeguards": {
       "count": 1,
       "first_seen": "2026-09-02",
       "last_seen": "2026-09-02",
+      "notes": []
+    },
+    "GANs": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "GGUF-native": {
@@ -8230,9 +8334,9 @@
       "notes": []
     },
     "Generative AI": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Generative BI": {
@@ -8362,9 +8466,9 @@
       "notes": []
     },
     "LLM": {
-      "count": 94,
+      "count": 95,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "LLM (Codex)": {
@@ -8506,9 +8610,9 @@
       "notes": []
     },
     "Machine Learning": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Machine Learning Frameworks": {
@@ -9405,6 +9509,12 @@
       "last_seen": "2026-06-19",
       "notes": []
     },
+    "Uncertainty Quantification": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "notes": []
+    },
     "Unified AI Interface": {
       "count": 1,
       "first_seen": "2026-07-26",
@@ -9606,9 +9716,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "AI Agents in Finance": {
@@ -9630,9 +9740,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 86,
+      "count": 87,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9705,6 +9815,12 @@
       "count": 1,
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "AI Model Monitoring": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "AI Model Optimization": {
@@ -9822,9 +9938,9 @@
       "notes": []
     },
     "Advanced Materials": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-05",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Agent economics": {
@@ -9840,15 +9956,21 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 108,
+      "count": 109,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Agritech": {
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "Autonomous Systems Security": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Autonomy Stack": {
@@ -9861,6 +9983,12 @@
       "count": 1,
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
+      "notes": []
+    },
+    "Battery Recycling": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Biotech": {
@@ -9891,6 +10019,12 @@
       "count": 3,
       "first_seen": "2026-09-09",
       "last_seen": "2026-10-23",
+      "notes": []
+    },
+    "Capital Allocation Risks": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Capital Allocation in SEA": {
@@ -10107,6 +10241,12 @@
       "count": 1,
       "first_seen": "2026-06-29",
       "last_seen": "2026-06-29",
+      "notes": []
+    },
+    "Digital Twins": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Distribution": {
@@ -10331,6 +10471,12 @@
       "last_seen": "2026-11-01",
       "notes": []
     },
+    "Generative AI": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "notes": []
+    },
     "Generative BI": {
       "count": 1,
       "first_seen": "2026-07-20",
@@ -10401,6 +10547,12 @@
       "count": 1,
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
+      "notes": []
+    },
+    "LLM Development": {
+      "count": 1,
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "LLM Optimization": {
@@ -10506,9 +10658,9 @@
       "notes": []
     },
     "Moats": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Network Infrastructure": {
@@ -10662,9 +10814,9 @@
       "notes": []
     },
     "Quant Trading": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Quant Trading & Market Microstructure": {
@@ -10704,9 +10856,9 @@
       "notes": []
     },
     "Risk Management": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Robotics": {
@@ -10734,9 +10886,9 @@
       "notes": []
     },
     "SEA Fintech": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "SEA Fintech & Startup Ecosystem": {
@@ -10920,9 +11072,9 @@
       "notes": []
     },
     "Uncertainty Quantification": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-06-19",
+      "last_seen": "2026-11-04",
       "notes": []
     },
     "Unit Economics": {

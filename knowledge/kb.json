@@ -343,9 +343,9 @@
       ]
     },
     "Anthropic": {
-      "count": 43,
+      "count": 44,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-05",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -573,6 +573,11 @@
           "date": "2026-11-01",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -700,14 +705,19 @@
       ]
     },
     "BYD": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-05",
       "rounds": [
         {
           "date": "2026-11-03",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -4192,6 +4202,18 @@
         }
       ]
     },
+    "Ricursive Intelligence": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "rounds": [
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Rillet": {
       "count": 1,
       "first_seen": "2026-08-21",
@@ -4364,6 +4386,18 @@
         }
       ]
     },
+    "Sequoia Capital": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "rounds": [
+        {
+          "date": "2026-11-05",
+          "investors": "not specified",
+          "round": "new funds"
+        }
+      ]
+    },
     "Shopee": {
       "count": 1,
       "first_seen": "2026-10-22",
@@ -4529,9 +4563,9 @@
       ]
     },
     "Spotify": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-05",
       "rounds": [
         {
           "date": "2026-10-04",
@@ -4544,6 +4578,11 @@
             "Disruptive"
           ],
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -5042,6 +5081,18 @@
           "date": "2026-10-09",
           "investors": "N/A",
           "round": "N/A"
+        }
+      ]
+    },
+    "Vercel Labs": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "rounds": [
+        {
+          "date": "2026-11-05",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -6151,6 +6202,12 @@
       "first_seen": "2026-06-29",
       "last_seen": "2026-06-29"
     },
+    "Hybrid Energy Storage Control": {
+      "count": 1,
+      "domain": "Grid Stability & AI Data Centers",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
+    },
     "Hybrid Reasoning Agents": {
       "count": 1,
       "domain": "AI Agent Architecture",
@@ -6240,6 +6297,12 @@
       "domain": "Energy Storage",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14"
+    },
+    "MACE Foundation Model": {
+      "count": 1,
+      "domain": "Materials Chemistry",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     "ML Force Fields": {
       "count": 1,
@@ -7312,27 +7375,27 @@
       "pattern_notes": []
     },
     "c": {
-      "count": 62,
+      "count": 63,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "d": {
-      "count": 41,
+      "count": 42,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "e": {
-      "count": 123,
+      "count": 125,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "f": {
-      "count": 30,
+      "count": 31,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "g": {
@@ -7348,9 +7411,9 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 107,
+      "count": 109,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "k": {
@@ -7372,21 +7435,21 @@
       "pattern_notes": []
     },
     "n": {
-      "count": 98,
+      "count": 99,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "o": {
-      "count": 88,
+      "count": 89,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "p": {
-      "count": 68,
+      "count": 69,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "q": {
@@ -7402,15 +7465,15 @@
       "pattern_notes": []
     },
     "s": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "t": {
-      "count": 81,
+      "count": 82,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-05",
       "pattern_notes": []
     },
     "u": {
@@ -7527,6 +7590,12 @@
       "count": 1,
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-20",
+      "notes": []
+    },
+    "AI Desktop Automation": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "AI Education": {
@@ -7649,6 +7718,12 @@
       "last_seen": "2026-11-04",
       "notes": []
     },
+    "AI Workflow Integration": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "notes": []
+    },
     "AI agent internet access": {
       "count": 2,
       "first_seen": "2026-06-19",
@@ -7749,6 +7824,12 @@
       "count": 1,
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Agentic Coding": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Agentic Orchestration": {
@@ -8025,6 +8106,12 @@
       "count": 1,
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
+      "notes": []
+    },
+    "Cryptographic Proofs": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Custom trained AI enhancement model": {
@@ -9029,6 +9116,12 @@
       "last_seen": "2026-07-20",
       "notes": []
     },
+    "Provable AI Inference": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "notes": []
+    },
     "PyTorch": {
       "count": 1,
       "first_seen": "2026-10-21",
@@ -9716,9 +9809,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 7,
+      "count": 8,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "AI Agents in Finance": {
@@ -9764,9 +9857,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 100,
+      "count": 101,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -10025,6 +10118,12 @@
       "count": 1,
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-04",
+      "notes": []
+    },
+    "Capital Allocation Shifts": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Capital Allocation in SEA": {
@@ -10351,6 +10450,12 @@
       "last_seen": "2026-06-23",
       "notes": []
     },
+    "Energy & Materials Innovation": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "notes": []
+    },
     "Energy & Pin": {
       "count": 1,
       "first_seen": "2026-08-11",
@@ -10619,6 +10724,12 @@
       "count": 1,
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
+      "notes": []
+    },
+    "Market Expansion & Moats": {
+      "count": 1,
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
       "notes": []
     },
     "Market Microstructure": {

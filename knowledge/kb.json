@@ -180,6 +180,18 @@
         }
       ]
     },
+    "Airwallex": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "rounds": [
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Alibaba": {
       "count": 5,
       "first_seen": "2026-07-07",
@@ -343,9 +355,9 @@
       ]
     },
     "Anthropic": {
-      "count": 44,
+      "count": 45,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-21",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -576,6 +588,11 @@
         },
         {
           "date": "2026-11-05",
+          "investors": [],
+          "round": null
+        },
+        {
+          "date": "2026-11-21",
           "investors": [],
           "round": null
         }
@@ -1257,9 +1274,9 @@
       ]
     },
     "Cursor": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-11-21",
       "rounds": [
         {
           "date": "2026-08-14",
@@ -1271,6 +1288,11 @@
         {
           "date": "2026-10-06",
           "investors": null,
+          "round": null
+        },
+        {
+          "date": "2026-11-21",
+          "investors": [],
           "round": null
         }
       ]
@@ -2492,6 +2514,18 @@
         }
       ]
     },
+    "Kapronasia": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "rounds": [
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Keen Code": {
       "count": 1,
       "first_seen": "2026-08-10",
@@ -3010,14 +3044,19 @@
       ]
     },
     "Mistral AI": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-21",
       "rounds": [
         {
           "date": "2026-10-20",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -3446,9 +3485,9 @@
       ]
     },
     "OpenAI": {
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-21",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -3638,6 +3677,11 @@
           "date": "2026-11-01",
           "investors": "N/A",
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -4434,6 +4478,18 @@
         }
       ]
     },
+    "Singapore FinTech Association (SFA)": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "rounds": [
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
+        }
+      ]
+    },
     "Singtel": {
       "count": 1,
       "first_seen": "2026-10-09",
@@ -5222,14 +5278,19 @@
       ]
     },
     "Y Combinator": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-14",
+      "last_seen": "2026-11-21",
       "rounds": [
         {
           "date": "2026-09-14",
           "investors": [],
           "round": "Demo Day"
+        },
+        {
+          "date": "2026-11-21",
+          "investors": [],
+          "round": null
         }
       ]
     },
@@ -5657,10 +5718,10 @@
       "last_seen": "2026-07-21"
     },
     "AI Agent Control": {
-      "count": 1,
-      "domain": "AI",
+      "count": 2,
+      "domain": "AI Systems",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-07-31"
+      "last_seen": "2026-11-21"
     },
     "AI Chip Principles": {
       "count": 1,
@@ -5687,10 +5748,10 @@
       "last_seen": "2026-10-10"
     },
     "AI Model Optimization": {
-      "count": 22,
-      "domain": "AI",
+      "count": 23,
+      "domain": "AI Engineering",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-21"
     },
     "AI Model Optimization for LLM Inference": {
       "count": 1,
@@ -6141,6 +6202,12 @@
       "domain": "Robotics",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14"
+    },
+    "Generative AI": {
+      "count": 1,
+      "domain": "Computer Vision",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21"
     },
     "Generative AI Foundations": {
       "count": 1,
@@ -7551,9 +7618,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 104,
+      "count": 105,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Benchmarks": {
@@ -7671,9 +7738,9 @@
       "notes": []
     },
     "AI Model Optimization": {
-      "count": 17,
+      "count": 18,
       "first_seen": "2026-07-10",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Payments": {
@@ -7713,9 +7780,9 @@
       "notes": []
     },
     "AI Workflow": {
-      "count": 77,
+      "count": 78,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Workflow Integration": {
@@ -8204,6 +8271,12 @@
       "last_seen": "2026-10-08",
       "notes": []
     },
+    "Deepfake Detection": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "notes": []
+    },
     "Diffusion Models": {
       "count": 11,
       "first_seen": "2026-06-22",
@@ -8433,9 +8506,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 71,
+      "count": 72,
       "first_seen": "2026-06-23",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Generative Modeling (LLMs)": {
@@ -8628,6 +8701,12 @@
       "count": 1,
       "first_seen": "2026-07-31",
       "last_seen": "2026-07-31",
+      "notes": []
+    },
+    "Language Models (LLM)": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Large Language Model (LLM) Training Framework": {
@@ -9332,6 +9411,12 @@
       "last_seen": "2026-06-29",
       "notes": []
     },
+    "Self-rewriting AI": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "notes": []
+    },
     "Semiconductor": {
       "count": 2,
       "first_seen": "2026-08-24",
@@ -9821,9 +9906,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 115,
+      "count": 116,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Benchmarking": {
@@ -9833,9 +9918,9 @@
       "notes": []
     },
     "AI Confidence Gap": {
-      "count": 87,
+      "count": 88,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Cost Optimization": {
@@ -9857,9 +9942,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 101,
+      "count": 102,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -10049,9 +10134,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 109,
+      "count": 110,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Agritech": {
@@ -10133,9 +10218,9 @@
       "notes": []
     },
     "Capital Structural Dependency": {
-      "count": 93,
+      "count": 94,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Capital allocation": {
@@ -10589,9 +10674,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 37,
+      "count": 38,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Generative modeling": {
@@ -10769,9 +10854,9 @@
       "notes": []
     },
     "Moats": {
-      "count": 11,
+      "count": 12,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Network Infrastructure": {
@@ -11009,9 +11094,9 @@
       "notes": []
     },
     "SEA Fintech / Payments / Startup Ecosystem": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "SEA Fintech Dynamics": {
@@ -11162,6 +11247,12 @@
       "count": 1,
       "first_seen": "2026-06-26",
       "last_seen": "2026-06-26",
+      "notes": []
+    },
+    "Uncertainty / OOD": {
+      "count": 1,
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
       "notes": []
     },
     "Uncertainty / OOD / Long-tailed Learning": {

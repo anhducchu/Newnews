@@ -1238,14 +1238,19 @@
       ]
     },
     "CoreWeave": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
+      "last_seen": "2026-11-22",
       "rounds": [
         {
           "date": "2026-07-11",
           "investors": "Nvidia",
           "round": "financing"
+        },
+        {
+          "date": "2026-11-22",
+          "investors": null,
+          "round": null
         }
       ]
     },
@@ -6365,6 +6370,12 @@
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14"
     },
+    "Low-Resource AI Agents": {
+      "count": 1,
+      "domain": "AI Engineering",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22"
+    },
     "MACE Foundation Model": {
       "count": 1,
       "domain": "Materials Chemistry",
@@ -6532,6 +6543,12 @@
       "domain": "Robotics",
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-06"
+    },
+    "Quantization Compiler": {
+      "count": 1,
+      "domain": "AI Model Optimization",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22"
     },
     "Quantum Oracle Engineering": {
       "count": 1,
@@ -7618,9 +7635,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 105,
+      "count": 106,
       "first_seen": "2026-06-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "AI Benchmarks": {
@@ -8601,6 +8618,12 @@
       "last_seen": "2026-10-21",
       "notes": []
     },
+    "Inference Stack": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "notes": []
+    },
     "Intelligent Power Management Chips": {
       "count": 1,
       "first_seen": "2026-07-02",
@@ -8725,6 +8748,12 @@
       "count": 1,
       "first_seen": "2026-06-27",
       "last_seen": "2026-06-27",
+      "notes": []
+    },
+    "LiteLLM": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "Local AI Inference": {
@@ -9232,9 +9261,9 @@
       "notes": []
     },
     "Quantization": {
-      "count": 2,
+      "count": 3,
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "Quantum Computing": {
@@ -9854,6 +9883,12 @@
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-11",
       "notes": []
+    },
+    "vLLM": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "notes": []
     }
   },
   "themes": {
@@ -9894,9 +9929,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 8,
+      "count": 9,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "AI Agents in Finance": {
@@ -9977,6 +10012,12 @@
       "last_seen": "2026-10-20",
       "notes": []
     },
+    "AI Infrastructure Economics": {
+      "count": 1,
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "notes": []
+    },
     "AI Infrastructure Finance": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -10026,9 +10067,9 @@
       "notes": []
     },
     "AI Optimization": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "AI Payments": {
@@ -10188,9 +10229,9 @@
       "notes": []
     },
     "Capital Allocation": {
-      "count": 10,
+      "count": 11,
       "first_seen": "2026-06-29",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "Capital Allocation / VC Thesis / Moats": {
@@ -10518,9 +10559,9 @@
       "notes": []
     },
     "Edge AI": {
-      "count": 1,
+      "count": 2,
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "Energy & Battery": {
@@ -11280,9 +11321,9 @@
       "notes": []
     },
     "Unit Economics": {
-      "count": 6,
+      "count": 7,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "notes": []
     },
     "Unit economics": {

@@ -355,9 +355,9 @@
       ]
     },
     "Anthropic": {
-      "count": 47,
+      "count": 48,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "rounds": [
         {
           "date": "2026-06-22",
@@ -611,6 +611,11 @@
             "GIC"
           ],
           "round": "not_specified"
+        },
+        {
+          "date": "2026-11-25",
+          "investors": "Public Market",
+          "round": "IPO"
         }
       ]
     },
@@ -3511,9 +3516,9 @@
       ]
     },
     "OpenAI": {
-      "count": 39,
+      "count": 40,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-25",
       "rounds": [
         {
           "date": "2026-06-19",
@@ -3713,6 +3718,11 @@
           "date": "2026-11-23",
           "investors": [],
           "round": "N/A"
+        },
+        {
+          "date": "2026-11-25",
+          "investors": "N/A",
+          "round": "Beta Launch"
         }
       ]
     },
@@ -6324,6 +6334,12 @@
       "first_seen": "2026-07-09",
       "last_seen": "2026-07-09"
     },
+    "High-Entropy 2D Magnetic Materials": {
+      "count": 1,
+      "domain": "Advanced Materials",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
     "High-Performance Computing": {
       "count": 1,
       "domain": "GPU Acceleration",
@@ -6792,6 +6808,12 @@
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19"
     },
+    "Silicon Vacancy Qubits": {
+      "count": 1,
+      "domain": "Quantum Computing",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25"
+    },
     "Smart Cities": {
       "count": 1,
       "domain": "Grid, Energy Storage, Autonomy Stack",
@@ -6981,9 +7003,9 @@
       "pattern_notes": []
     },
     "/": {
-      "count": 104,
+      "count": 105,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "1982 Ventures": {
@@ -6993,9 +7015,9 @@
       "pattern_notes": []
     },
     "A": {
-      "count": 103,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "AVP": {
@@ -7281,9 +7303,9 @@
       "pattern_notes": []
     },
     "M": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-08-07",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "M12": {
@@ -7323,9 +7345,9 @@
       "pattern_notes": []
     },
     "N": {
-      "count": 107,
+      "count": 108,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "Notable Capital": {
@@ -7359,9 +7381,9 @@
       "pattern_notes": []
     },
     "P": {
-      "count": 4,
+      "count": 5,
       "first_seen": "2026-06-30",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "PETROS": {
@@ -7527,9 +7549,9 @@
       "pattern_notes": []
     },
     "a": {
-      "count": 85,
+      "count": 86,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "a16z": {
@@ -7539,15 +7561,15 @@
       "pattern_notes": []
     },
     "b": {
-      "count": 23,
+      "count": 24,
       "first_seen": "2026-06-22",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "c": {
-      "count": 63,
+      "count": 64,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "d": {
@@ -7557,9 +7579,9 @@
       "pattern_notes": []
     },
     "e": {
-      "count": 125,
+      "count": 126,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "f": {
@@ -7581,21 +7603,21 @@
       "pattern_notes": []
     },
     "i": {
-      "count": 109,
+      "count": 110,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "k": {
-      "count": 12,
+      "count": 13,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "l": {
-      "count": 53,
+      "count": 54,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "m": {
@@ -7629,9 +7651,9 @@
       "pattern_notes": []
     },
     "r": {
-      "count": 57,
+      "count": 58,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "s": {
@@ -7641,15 +7663,15 @@
       "pattern_notes": []
     },
     "t": {
-      "count": 82,
+      "count": 83,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "u": {
-      "count": 24,
+      "count": 25,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-11-25",
       "pattern_notes": []
     },
     "v": {
@@ -8146,6 +8168,12 @@
       "last_seen": "2026-07-26",
       "notes": []
     },
+    "Browser-based Multidimensional Modeling": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "notes": []
+    },
     "C++ libraries": {
       "count": 1,
       "first_seen": "2026-07-11",
@@ -8494,6 +8522,12 @@
       "last_seen": "2026-10-07",
       "notes": []
     },
+    "Event Stream Diffusion": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "notes": []
+    },
     "Fintech": {
       "count": 1,
       "first_seen": "2026-07-14",
@@ -8606,6 +8640,12 @@
       "count": 1,
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-20",
+      "notes": []
+    },
+    "Generative Handwriting/Sketching": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Generative Modeling": {
@@ -8798,6 +8838,12 @@
       "count": 1,
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-22",
+      "notes": []
+    },
+    "LLM Speculative Decoding Calibration": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "LLM inference optimization": {
@@ -9952,6 +9998,12 @@
       "last_seen": "2026-10-30",
       "notes": []
     },
+    "World Models (PyTorch)": {
+      "count": 1,
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "notes": []
+    },
     "ZFS": {
       "count": 1,
       "first_seen": "2026-06-19",
@@ -10033,9 +10085,9 @@
       "notes": []
     },
     "AI Agents": {
-      "count": 9,
+      "count": 10,
       "first_seen": "2026-07-04",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "AI Agents / Agentic Infrastructure": {
@@ -10051,9 +10103,9 @@
       "notes": []
     },
     "AI Application Layer": {
-      "count": 117,
+      "count": 118,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "AI Benchmarking": {
@@ -10087,9 +10139,9 @@
       "notes": []
     },
     "AI Engineering": {
-      "count": 103,
+      "count": 104,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "AI Engineering and Optimization": {
@@ -10297,9 +10349,9 @@
       "notes": []
     },
     "Agentic Infrastructure": {
-      "count": 111,
+      "count": 112,
       "first_seen": "2026-06-19",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Agritech": {
@@ -10861,9 +10913,9 @@
       "notes": []
     },
     "Generative Modeling": {
-      "count": 38,
+      "count": 39,
       "first_seen": "2026-06-26",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-25",
       "notes": []
     },
     "Generative modeling": {
